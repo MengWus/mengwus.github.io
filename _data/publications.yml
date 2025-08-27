@@ -4,13 +4,27 @@ main:
     authors: <strong>Meng Wu</strong>, Lei Yin, Miaomiao Li, Zhanping You*, Dongzhao Jin, Kai Xin
     conference_short: CBM
     conference: Construction and Building Materials, 2025
-    Source: https://doi.org/10.1016/j.conbuildmat.2024.139738
+    pdf: https://doi.org/10.1016/j.conbuildmat.2024.139738
     image: https://ars.els-cdn.com/content/image/1-s2.0-S0950061824048803-ga1_lrg.jpg
 
   - title: "Asphalt property prediction through high‐throughput molecular dynamics simulation"
-    authors: <strong>Meng Wu</strong>, Miaomiao Li, Zhanping You
+    authors: <strong>Meng Wu</strong>, Miaomiao Li, Zhanping You*
     conference_short: CACAIE
     conference: Computer‐Aided Civil and Infrastructure Engineering, 2025.
-    source: https://onlinelibrary.wiley.com/doi/full/10.1111/mice.13325?casa_token=xlus01DfMeEAAAAA%3A_6CnsRel2O8nXfyGi113--BY-eNvbmpws-jfr61yXgj1ddz5IlpAclzbfnh4MvaYpSWFjNa-DAN0UC2m
+    pdf: https://onlinelibrary.wiley.com/doi/full/10.1111/mice.13325?casa_token=xlus01DfMeEAAAAA%3A_6CnsRel2O8nXfyGi113--BY-eNvbmpws-jfr61yXgj1ddz5IlpAclzbfnh4MvaYpSWFjNa-DAN0UC2m
     image: https://onlinelibrary.wiley.com/cms/asset/a89c3cf5-37bb-4bfc-a477-35564af716fc/mice13325-fig-0009-m.jpg
 
+
+  - title: "Molecular dynamics simulation on cohesion and adhesion properties of the emulsified cold recycled mixtures"
+    authors: <strong>Meng Wu</strong>, Guangji Xu*, Yingcheng Luan, Yajing Zhu, Tao Ma, Weiguang Zhang
+    conference_short: CBM
+    conference: Construction and Building Materials, 2022
+    pdf: https://www.sciencedirect.com/science/article/pii/S0950061822010807?casa_token=i-q7pIR4Mi8AAAAA:Td-K_zWyqH-bhI3Ef_voUrJHwc4-FXj3X_7YX6oJaYQ7g22f0sczpEc33QAltzD-JooH8B1wGrQ
+    image: https://ars.els-cdn.com/content/image/1-s2.0-S0950061822010807-gr9.jpg
+
+  - title: "Molecular simulation and experimental analysis on co-aging behaviors of SBS modifier and asphalt in SBS-modified asphalt"
+    authors: Guangji Xu, Yushi Yao, <strong>Meng Wu</strong>*, Yongli Zhao
+    conference_short: Molecular Simulation 
+    conference: Molecular Simulation, 2023
+    pdf: https://www.tandfonline.com/doi/abs/10.1080/08927022.2023.2182134
+    image: /publications/ms.png
