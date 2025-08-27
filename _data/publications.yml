@@ -21,6 +21,14 @@ main:
     pdf: https://www.tandfonline.com/doi/abs/10.1080/08927022.2024.2359568
     image: https://wumao352-cpu.github.io/homepage.github.io/publications/ms2.png
 
+  - title: "Molecular dynamics models to investigate the diffusion behavior of emulsified asphalt"
+    authors: <strong>Meng Wu</strong>, Zhanping You*
+    conference_short: CBM
+    conference: Construction and Building Materials, 2023
+    pdf: https://doi.org/10.1016/j.conbuildmat.2023.134061
+    image: https://ars.els-cdn.com/content/image/1-s2.0-S0950061823037790-gr18.jpg
+
+
   - title: "Molecular dynamics simulation on cohesion and adhesion properties of the emulsified cold recycled mixtures"
     authors: <strong>Meng Wu</strong>, Guangji Xu*, Yingcheng Luan, Yajing Zhu, Tao Ma, Weiguang Zhang
     conference_short: CBM
