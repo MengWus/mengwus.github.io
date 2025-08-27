@@ -68,6 +68,24 @@
 
   </head>
   <body>
+        <!-- ✅ Navbar inserted here -->
+    <div class="topnav">
+      <div id="myLinks">
+        {% include navigation.md %}
+      </div>
+      <a href="javascript:void(0);" class="icon" onclick="myFunction();reverseLinks()">
+        <i class="fa fa-bars"></i>
+      </a>
+    </div>
+    <!-- ✅ End Navbar -->
+
+    <script src="../assets/js/vanilla-back-to-top.min.js"></script>
+    <script>addBackToTop({
+        backgroundColor: '#fff',
+        innerHTML: 'Back to Top',
+        textColor: '#333'
+      })
+    </script>
     
     <div class="topnav">
 
