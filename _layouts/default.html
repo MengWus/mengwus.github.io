@@ -68,11 +68,20 @@
 
   </head>
   <body>
-        <!-- ✅ Navbar inserted here -->
+    <!-- ✅ Unified Navbar -->
     <div class="topnav">
+
+      <!-- University / Affiliation logo -->
+      <a href="{{ site.affiliation_link }}">
+        <img width="120" src="{{ site.affiliation_logo }}">
+      </a>
+
+      <!-- Navigation links -->
       <div id="myLinks">
         {% include navigation.md %}
       </div>
+
+      <!-- Mobile menu toggle -->
       <a href="javascript:void(0);" class="icon" onclick="myFunction();reverseLinks()">
         <i class="fa fa-bars"></i>
       </a>
@@ -86,18 +95,7 @@
         textColor: '#333'
       })
     </script>
-    
-    <div class="topnav">
 
-      <div id="myLinks">
-      {% include navigation.md %}
-      </div>
-
-      <a href="javascript:void(0);" class="icon" onclick="myFunction();reverseLinks()">
-        <i class="fa fa-bars"></i>
-      </a>
-      
-    </div>
     
 
     <script src="../assets/js/vanilla-back-to-top.min.js"></script>
