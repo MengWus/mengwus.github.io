@@ -4,4 +4,4 @@ title: Services
 permalink: /services/
 ---
 
-{% include_relative _includes/services.md %}
+{% include services.md %}
