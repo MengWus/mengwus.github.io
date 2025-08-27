@@ -14,6 +14,12 @@ main:
     pdf: https://onlinelibrary.wiley.com/doi/full/10.1111/mice.13325?casa_token=xlus01DfMeEAAAAA%3A_6CnsRel2O8nXfyGi113--BY-eNvbmpws-jfr61yXgj1ddz5IlpAclzbfnh4MvaYpSWFjNa-DAN0UC2m
     image: https://onlinelibrary.wiley.com/cms/asset/a89c3cf5-37bb-4bfc-a477-35564af716fc/mice13325-fig-0009-m.jpg
 
+  - title: "Aging effects on asphalt adhesive properties: molecular dynamics simulation of chemical composition and structural changes"
+    authors: <strong>Meng Wu</strong>, Zhanping You*, Dongzhao Jin, Lei Yin, Kai Xin
+    conference_short: Molecular Simulation 
+    conference: Molecular Simulation, 2024
+    pdf: https://www.tandfonline.com/doi/abs/10.1080/08927022.2024.2359568
+    image: https://wumao352-cpu.github.io/homepage.github.io/publications/ms2.png
 
   - title: "Molecular dynamics simulation on cohesion and adhesion properties of the emulsified cold recycled mixtures"
     authors: <strong>Meng Wu</strong>, Guangji Xu*, Yingcheng Luan, Yajing Zhu, Tao Ma, Weiguang Zhang
@@ -27,5 +33,6 @@ main:
     conference_short: Molecular Simulation 
     conference: Molecular Simulation, 2023
     pdf: https://www.tandfonline.com/doi/abs/10.1080/08927022.2023.2182134
-    image: /publications/ms.png
+    image: https://wumao352-cpu.github.io/homepage.github.io/publications/ms.png
+
 
