@@ -9,9 +9,9 @@ permalink: /projects/
 <h2 style="margin: 60px 0px -15px;">Projects participated</h2>
 <br>
 
-- Aug 2025: [IRON MOUNTAIN 20% dry rubber asphalt mix](https://www.mlive.com/news/ann-arbor/2025/08/ann-arbor-road-project-contains-7000-scrap-tires-in-experimental-asphalt.html)
+- Aug 2025: [Ann Arbor 10% dry rubber asphalt mix](https://www.mlive.com/news/ann-arbor/2025/08/ann-arbor-road-project-contains-7000-scrap-tires-in-experimental-asphalt.html)
 
-- May 2025: [IRON MOUNTAIN 20% dry rubber asphalt mix](https://www.ironmountaindailynews.com/news/local-news/2025/05/cr-573-project-underway-today/)
+- May 2025: [Iron Mountain 20% dry rubber asphalt mix](https://www.ironmountaindailynews.com/news/local-news/2025/05/cr-573-project-underway-today/)
 
-- Sep 2024: [IRON MOUNTAIN 20% dry rubber asphalt mix](https://www.abc12.com/traffic/2-million-worth-of-grants-will-incorporate-tires-into-road-paving/article_a854c746-d477-11ed-add4-8bae0d2e3159.html)
+- Sep 2024: [Dixie Highway 22% wet rubber asphalt mix](https://www.abc12.com/traffic/2-million-worth-of-grants-will-incorporate-tires-into-road-paving/article_a854c746-d477-11ed-add4-8bae0d2e3159.html)
 
