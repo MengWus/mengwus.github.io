@@ -186,6 +186,22 @@
           <i class="fab fa-x-twitter"></i>
         </a>
         {% endif %}
+        
+        {% if site.ORCID %}
+        <a href="{{ site.ORCID }}" target="_blank">
+          <i class="ai ai-orcid-square"></i>
+        </a>
+        {% endif %}
+
+
+
+        {% if site.email_link %}
+        <a style="margin: 0 5px 0 0" href="{{ site.email_link }}">
+          <i class="fas fa-envelope"></i>
+        </a>
+        {% endif %}
+
+
         </div>
         {% endif %}
         <br>
