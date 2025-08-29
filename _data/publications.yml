@@ -96,7 +96,7 @@ main:
     conference_short: ARCE
     conference: Advance Researches in Civil Engineering, 2022
     pdf:  https://doi.org/10.30469/arce.2022.157270
-    image: https://github.com/wumao352-cpu/homepage.github.io/image/pub1.png
+    image: https://wumao352-cpu.github.io/homepage.github.io/publications/pub1.png
 
   - title: "Multilevel analysis of the aging mechanisms and performance evolution of rubber-modified asphalt"
     authors: Weiguang Zhang, Yingcheng Luan, Tao Ma*, Shuangjie Wang, Jianbing Chen, Jinping Li, <strong>Meng Wu</strong>
