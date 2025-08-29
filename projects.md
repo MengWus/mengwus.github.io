@@ -15,12 +15,12 @@ permalink: /projects/
 
 - Sep 2024: [Dixie Highway 22% wet rubber asphalt mix](https://www.abc12.com/traffic/2-million-worth-of-grants-will-incorporate-tires-into-road-paving/article_a854c746-d477-11ed-add4-8bae0d2e3159.html)
 
-- Aug 2024: A preliminary investigation of rubberized asphalt performance under various dosage, Phase IV: mixture performance
+- Aug 2024: A preliminary investigation of rubberized asphalt performance under various dosages, Phase IV: mixture performance
 
-- May 2024: A preliminary investigation of rubberized asphalt performance under various dosage, Phase III: mixture performance
+- May 2024: A preliminary investigation of rubberized asphalt performance under various dosages, Phase III: mixture performance
 
-- Feb 2024: A preliminary investigation of rubberized asphalt performance under various dosage, Phase II: binder performance
+- Feb 2024: A preliminary investigation of rubberized asphalt performance under various dosages, Phase II: binder performance
 
-- Nov 2023: A preliminary investigation of rubberized asphalt performance under various dosage, Phase I: binder performance
+- Nov 2023: A preliminary investigation of rubberized asphalt performance under various dosages, Phase I: binder performance
 
 
