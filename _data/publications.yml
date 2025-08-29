@@ -28,6 +28,12 @@ main:
     pdf: https://doi.org/10.1016/j.conbuildmat.2023.134061
     image: https://ars.els-cdn.com/content/image/1-s2.0-S0950061823037790-gr18.jpg
 
+  - title: "Adhesion performance of rubber modified asphalt in chip seal: a molecular dynamic study"
+    authors: <strong>Meng Wu</strong>, Zhanping You*, Dongzhao Jin
+    conference_short: Materials
+    conference: Materials, 2023
+    pdf: https://doi.org/10.3390/ma16186324
+    image: https://www.mdpi.com/materials/materials-16-06324/article_deploy/html/images/materials-16-06324-g005-550.jpg
 
   - title: "Molecular dynamics simulation on cohesion and adhesion properties of the emulsified cold recycled mixtures"
     authors: <strong>Meng Wu</strong>, Guangji Xu*, Yingcheng Luan, Yajing Zhu, Tao Ma, Weiguang Zhang
@@ -42,5 +48,12 @@ main:
     conference: Molecular Simulation, 2023
     pdf: https://www.tandfonline.com/doi/abs/10.1080/08927022.2023.2182134
     image: https://wumao352-cpu.github.io/homepage.github.io/publications/ms.png
+
+  - title: "In-time density monitoring of in-place asphalt layer construction via intelligent compaction technology"
+    authors: Weiguang Zhang, Kamal Nasir Ahmad, Zheng Tong, Zhaoguang Hu, Haoyang Wang, <strong>Meng Wu</strong>*, Kai Zhao, Shunxin Yang, Hassan Farooq, Louay N Mohammad
+    conference_short: JMCE
+    conference: Journal of Materials in Civil Engineering, 2023
+    pdf: https://doi.org/10.1061/(ASCE)MT.1943-5533.0004558
+    image: https://ascelibrary.org/cms/10.1061/(ASCE)MT.1943-5533.0004558/asset/d44d53cf-0242-4d6f-931e-ab9b48e63820/assets/images/large/figure1.jpg
 
 
