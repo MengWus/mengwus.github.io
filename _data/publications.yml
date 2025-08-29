@@ -56,4 +56,58 @@ main:
     pdf: https://doi.org/10.1061/(ASCE)MT.1943-5533.0004558
     image: https://ascelibrary.org/cms/10.1061/(ASCE)MT.1943-5533.0004558/asset/d44d53cf-0242-4d6f-931e-ab9b48e63820/assets/images/large/figure1.jpg
 
+  - title: "Performance of high-rubber-content modified asphalt chip seal in wet-freezing environments"
+    authors: Lei Yin, Dongzhao Jinn, <strong>Meng Wu</strong>, Zhongda Liu, Zhanping You*
+    conference_short: JCP
+    conference: Journal of Cleaner Production, 2025
+    pdf: https://doi.org/10.1016/j.jclepro.2025.145993
+    image: https://ars.els-cdn.com/content/image/1-s2.0-S0959652625013435-gr5.jpg
 
+  - title: "A Case Study of Pavement Construction Materials for Wet-Freeze Regions: The Application of Waste Glass Aggregate and High-Content Rubber Modified Asphalt"
+    authors: Kai Xin, <strong>Meng Wu</strong>, Dongzhao Jin, Zhanping You*
+    conference_short: Buildings
+    conference: Buildings, 2025
+    pdf: https://doi.org/10.3390/buildings15101637
+    image: https://www.mdpi.com/buildings/buildings-15-01637/article_deploy/html/images/buildings-15-01637-g002-550.jpg
+
+  - title: "Exploring the influence of cement and cement hydration products on strength and interfacial adhesion in emulsified cold recycled mixture: A molecular dynamics and experimental investigation"
+    authors: Yushi Yao, Guangji Xu*, <strong>Meng Wu</strong>, Min Zhao
+    conference_short: CBM
+    conference: Construction and building materials, 2023
+    pdf: https://doi.org/10.1016/j.conbuildmat.2023.134050
+    image: https://ars.els-cdn.com/content/image/1-s2.0-S0950061823037686-gr8.jpg
+
+  - title: "Study of the mixing between asphalt and rejuvenator in hot in-place recycled layer"
+    authors: Yajing Zhu, Tao Ma, Guangji Xu*, Jianwei Fan, Yiming Zhang, <strong>Meng Wu</strong>
+    conference_short: "J. Transp. Eng., Part B: Pavements"
+    conference: "Journal of Transportation Engineering, Part B: Pavements, 2023"
+    pdf: https://doi.org/10.1061/JPEODX.PVENG-1033
+    image: https://ascelibrary-org.services.lib.mtu.edu/cms/10.1061/JPEODX.PVENG-1033/asset/76df6d67-2192-4096-9654-c2552be48234/assets/images/large/figure3.jpg
+
+  - title: "Investigating mechanical performance and interface characteristics of cold recycled mixture: Promoting sustainable utilization of reclaimed asphalt pavement"
+    authors: Yingcheng Luan, Tao Ma*, Siqi Wang, Yuan Ma, Guangji Xu, <strong>Meng Wu</strong>
+    conference_short: JCP
+    conference: Journal of Cleaner Production, 2022
+    pdf: https://doi.org/10.1016/j.jclepro.2022.133366
+    image: https://ars.els-cdn.com/content/image/1-s2.0-S0959652622029511-gr9.jpg
+
+  - title: "Research on the Adhesion and Self-healing Properties of Bio-asphalt Based on Molecular Simulation"
+    authors: Yuan Fu, <strong>Meng Wu</strong>, Tianqing Hei, Zezhen Dong, Jianying Hu, Weiguang Zhang*
+    conference_short: ARCE
+    conference: Advance Researches in Civil Engineering, 2022
+    pdf:  https://doi.org/10.30469/arce.2022.157270
+    image: "/image/pub1.png"
+
+  - title: "Multilevel analysis of the aging mechanisms and performance evolution of rubber-modified asphalt"
+    authors: Weiguang Zhang, Yingcheng Luan, Tao Ma*, Shuangjie Wang, Jianbing Chen, Jinping Li, <strong>Meng Wu</strong>
+    conference_short: JMCE
+    conference: Journal of Materials in Civil Engineering, 2021
+    pdf:  https://doi.org/10.1061/(ASCE)MT.1943-5533.0004000
+    image: https://ascelibrary.org/cms/10.1061/(ASCE)MT.1943-5533.0004000/asset/382900e6-e548-4770-b044-ea4bab1e8a21/assets/images/large/figure6.jpg
+  
+  - title: "Field investigation of clay balls in full-depth asphalt pavement"
+    authors: Weiguang Zhang*, Jusang Lee, Hyung Jun Ahn, Qiqi Le, <strong>Meng Wu</strong>, Haoran Zhu, Jing Zhang
+    conference_short: Materials
+    conference: Materials, 2019
+    pdf:  https://doi.org/10.3390/ma12182879
+    image: https://www.mdpi.com/materials/materials-12-02879/article_deploy/html/images/materials-12-02879-g003-550.jpg
