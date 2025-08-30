@@ -7,6 +7,8 @@ email: "mewu@mtu.edu"
 # Search Engine Optimization (SEO)
 # Search Engine Optimization (SEO)
 description: Meng Wu is a Graduate Research Assistant at Michigan Technological University, specializing in sustainable asphalt, rubberized pavement, and advanced transportation materials research.
+url: "https://wumao352-cpu.github.io"   # important for SEO
+baseurl: ""                             # empty since this is a user/organization site
 
 
 # The option is used to enable the Illinois template.
@@ -25,7 +27,9 @@ email_link: "mailto:mewu@mtu.edu"
 # Images 
 avatar: profile.jpg
 
-
+# Jekyll plugins
+plugins:
+  - jekyll-sitemap   # generates sitemap.xml automatically for Google
 
 
 
