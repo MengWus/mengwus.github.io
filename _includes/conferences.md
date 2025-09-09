@@ -3,6 +3,12 @@
 <h2 style="margin: 60px 0px 10px;">Conference posters</h2>
 
 <h4 style="margin:0 10px 0;">Laboratory Evaluation of Mixture Performance of High-Content Rubber Asphalt Using Wet Process</h4>
+<p style="margin:0 10px 5px; font-size:13px;">
+  <a href="https://doi.org/10.1016/j.conbuildmat.2025.143438" target="_blank" style="color:#0066cc; text-decoration:none;">
+    📄 Related publication
+  </a>
+</p>
+
 <p style="margin:0 10px 10px; font-size:14px; font-style:italic; color:#555;">
   <strong>Meng Wu</strong>, Kwadwo Ampadu Boateng, Lei Yin, Dongzhao Jin, Kai Xin, Zhanping You
 </p>
@@ -43,6 +49,11 @@
 
 
 <h4 style="margin:0 10px 0;">Asphalt Property Prediction Through High-Throughput Molecular Dynamics Simulation</h4>
+<p style="margin:0 10px 5px; font-size:13px;">
+  <a href="https://doi.org/10.1111/mice.13325" target="_blank" style="color:#0066cc; text-decoration:none;">
+    📄 Related publication
+  </a> 
+</p>
 <p style="margin:0 10px 10px; font-size:14px; font-style:italic; color:#555;">
   <strong>Meng Wu</strong>, Miaomiao Li, Zhanping You
 </p>
