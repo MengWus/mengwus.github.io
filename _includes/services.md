@@ -2,7 +2,7 @@
 
 <h2 style="margin: 60px 0px 10px;">Services</h2>
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+<h4 style="margin:0 10px 0;">Journal Reviewer</h4>
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.sciencedirect.com/journal/construction-and-building-materials"><autocolor>Construction & Building Materials</autocolor></a></li>
