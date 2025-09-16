@@ -1,6 +1,8 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[Sep. 2025]</strong> I started to act as a reviewer for <a href="https://jtte.chd.edu.cn/">
+Journal of Traffic and Transportation Engineering (English Edition)</a>.</li>
 <li><strong>[Sep. 2025]</strong> I started to act as a reviewer for <a href="https://www.sciencedirect.com/journal/journal-of-road-engineering">
 Journal of Road Engineering</a>.</li>
 <li><strong>[Sep. 2025]</strong> Our paper about <a href="https://doi.org/10.1016/j.conbuildmat.2025.143438">High-content crumb rubber modified asphalt mixture via wet process: Laboratory evaluation and field application</a> is accepted to <a href="https://www.sciencedirect.com/journal/construction-and-building-materials">Construction and Building Materials 2025</a>.</li>
