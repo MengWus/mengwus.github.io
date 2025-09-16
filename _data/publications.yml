@@ -26,7 +26,7 @@ main:
     conference_short: Molecular Simulation 
     conference: Molecular Simulation, 2024
     pdf: https://www.tandfonline.com/doi/abs/10.1080/08927022.2024.2359568
-    image: https://wumao352-cpu.github.io/publications/ms2.png
+    image: https://mengwus.github.io/publications/ms2.png
 
   - title: "Molecular dynamics models to investigate the diffusion behavior of emulsified asphalt"
     authors: <strong>Meng Wu</strong>, Zhanping You*
@@ -54,7 +54,7 @@ main:
     conference_short: Molecular Simulation 
     conference: Molecular Simulation, 2023
     pdf: https://www.tandfonline.com/doi/abs/10.1080/08927022.2023.2182134
-    image: https://wumao352-cpu.github.io/publications/ms.png
+    image: https://mengwus.github.io/publications/ms.png
 
   - title: "In-time density monitoring of in-place asphalt layer construction via intelligent compaction technology"
     authors: Weiguang Zhang, Kamal Nasir Ahmad, Zheng Tong, Zhaoguang Hu, Haoyang Wang, <strong>Meng Wu</strong>*, Kai Zhao, Shunxin Yang, Hassan Farooq, Louay N Mohammad
@@ -89,7 +89,7 @@ main:
     conference_short: "J. Transp. Eng., Part B: Pavements"
     conference: "Journal of Transportation Engineering, Part B: Pavements, 2023"
     pdf: https://doi.org/10.1061/JPEODX.PVENG-1033
-    image: https://wumao352-cpu.github.io/publications/ms3.jpg
+    image: https://mengwus.github.io/publications/ms3.jpg
 
   - title: "Investigating mechanical performance and interface characteristics of cold recycled mixture: Promoting sustainable utilization of reclaimed asphalt pavement"
     authors: Yingcheng Luan, Tao Ma*, Siqi Wang, Yuan Ma, Guangji Xu, <strong>Meng Wu</strong>
@@ -103,7 +103,7 @@ main:
     conference_short: ARCE
     conference: Advance Researches in Civil Engineering, 2022
     pdf:  https://doi.org/10.30469/arce.2022.157270
-    image: https://wumao352-cpu.github.io/publications/pub1.png
+    image: https://mengwus.github.io/publications/pub1.png
 
   - title: "Multilevel analysis of the aging mechanisms and performance evolution of rubber-modified asphalt"
     authors: Weiguang Zhang, Yingcheng Luan, Tao Ma*, Shuangjie Wang, Jianbing Chen, Jinping Li, <strong>Meng Wu</strong>
