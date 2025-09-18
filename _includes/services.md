@@ -16,6 +16,7 @@
   <li><a href="https://www.sciencedirect.com/journal/cleaner-materials"><autocolor>Cleaner Materials</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/colloids-and-surfaces-a-physicochemical-and-engineering-aspects"><autocolor>Colloids and Surfaces A: Physicochemical and Engineering Aspects</autocolor></a></li>
   <li><a href="https://jtte.chd.edu.cn/"><autocolor>Journal of Traffic and Transportation Engineering (English Edition)</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/applied-surface-science"><autocolor>Applied Surface Science</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">ASCE Society Student Membership</h4>
