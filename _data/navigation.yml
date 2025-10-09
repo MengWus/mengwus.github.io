@@ -1,5 +1,5 @@
 main:
-  - title: "Services"
+  - title: "Services"      # …
     url: /services/
   - title: "Projects"
     url: /projects/
@@ -10,7 +10,6 @@ main:
   - title: "Home"
     url: /
 
-  # Language toggle (right aligned)
+  # put 中文 LAST
   - title: "中文"
     url: /index-cn/
-    right: true
