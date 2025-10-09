@@ -1,6 +1,6 @@
 main:
   - title: "中文"
-    url: https://mengwus-cn.github.io/
+    url:  https://mengwus.github.io/cn/
   - title: "Services"      # …
     url: /services/
   - title: "Projects"
