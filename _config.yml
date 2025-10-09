@@ -31,7 +31,6 @@ avatar: profile.jpg
 plugins:
   - jekyll-sitemap   # generates sitemap.xml automatically for Google
 
-permalink: pretty
 
 include:
   - _pages
