@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 出版物
-permalink: /cn/publications/
+permalink: /cn/publication
 ---
 
 # 出版物
