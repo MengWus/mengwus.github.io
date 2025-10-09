@@ -1,6 +1,7 @@
 ---
 layout: homepage
 permalink: /index-cn/
+lang: cn
 ---
 
 <h1 id="about-me-cn"></h1>

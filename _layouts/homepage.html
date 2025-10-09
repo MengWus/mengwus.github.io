@@ -81,7 +81,11 @@
       <a href="{{ site.affiliation_link }}"><img width="120" src="{{ site.affiliation_logo }}"></a>
 
       <div id="myLinks">
-      {% include navigation-home.md %}
+      {% if page.lang == 'cn' %}
+        {% include navigation-home-cn.md %}
+      {% else %}
+        {% include navigation-home.md %}
+      {% endif %}
       </div>
 
       <a href="javascript:void(0);" class="icon" onclick="myFunction();reverseLinks()">
