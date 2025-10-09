@@ -31,7 +31,8 @@ avatar: profile.jpg
 plugins:
   - jekyll-sitemap   # generates sitemap.xml automatically for Google
 
-
+include:
+  - cn
 
 # The following files will be removed from the generated website.
 exclude:
