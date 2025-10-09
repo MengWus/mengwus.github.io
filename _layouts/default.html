@@ -77,8 +77,13 @@
       </a>
 
       <!-- Navigation links -->
+      <!-- Navigation links -->
       <div id="myLinks">
-        {% include navigation.md %}
+        {% if page.lang == 'cn' %}
+          {% include navigation-home-cn.md %}
+        {% else %}
+          {% include navigation.md %}
+        {% endif %}
       </div>
 
       <!-- Mobile menu toggle -->

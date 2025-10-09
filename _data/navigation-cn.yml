@@ -1,6 +1,6 @@
 main:
   - title: "English"
-    url: /index/
+    url: /
   - title: "服务"      # …
     url: /services-cn/
   - title: "项目"
