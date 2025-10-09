@@ -1,16 +1,13 @@
 main:
   - title: "中文"
-    url:  /cn/
-  - title: "Services"      # …
-    url: /services/
+    url: /cn
+  - title: "Services"
+    url: /services
   - title: "Projects"
-    url: /projects/
+    url: /projects
   - title: "Conferences"
-    url: /conferences/
+    url: /conferences
   - title: "Publications"
-    url: /publications/
+    url: /publications
   - title: "Home"
     url: /
-
-
-
