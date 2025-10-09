@@ -2,6 +2,7 @@
 layout: default
 title: 项目
 permalink: /projects-cn/
+lang: cn
 ---
 
 <h1 id="Projects-cn"></h1>
