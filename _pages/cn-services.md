@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 服务
-permalink: /cn/services/
+permalink: /cn/services
 ---
 
 # 服务
