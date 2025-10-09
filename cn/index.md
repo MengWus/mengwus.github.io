@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: 中文主页
-permalink: /cn/
+
 ---
 
 <h1 id="about-me"></h1>
