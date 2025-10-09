@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 项目
-permalink: /cn/projects/
+permalink: /cn/projects
 ---
 
 # 项目
