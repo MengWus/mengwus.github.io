@@ -1,0 +1,13 @@
+main:
+  - title: "English"
+    url: /
+  - title: "服务"
+    url: /cn/services
+  - title: "项目"
+    url: /cn/projects
+  - title: "会议"
+    url: /cn/conferences
+  - title: "出版物"
+    url: /cn/publications
+  - title: "主页"
+    url: /cn
