@@ -32,9 +32,14 @@ plugins:
   - jekyll-sitemap   # generates sitemap.xml automatically for Google
 
 include:
-  - cn
+  - _pages
 
-collections_dir: .
+defaults:
+  - scope:
+      path: "_pages"
+      type: "pages"
+    values:
+      layout: "default"
 
 # The following files will be removed from the generated website.
 exclude:
