@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 中文主页
+permalink: /cn/
 ---
 
 # 中文主页测试
