@@ -1,7 +1,6 @@
 ---
 layout: default
 title: 项目
-permalink: /cn/projects/
 ---
 
 <h1 id="Projects"></h1>
