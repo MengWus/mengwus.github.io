@@ -2,12 +2,12 @@ main:
   - title: "English"
     url: /
   - title: "服务"
-    url: /cn/services
+    url: /cn-services.html
   - title: "项目"
-    url: /cn/projects
+    url: /cn-projects.html
   - title: "会议"
-    url: /cn/conferences
+    url: /cn-conferences.html
   - title: "出版物"
-    url: /cn/publications
+    url: /cn-publications.html
   - title: "主页"
-    url: /cn
+    url: /cn.html
