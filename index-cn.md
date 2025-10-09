@@ -12,6 +12,6 @@ layout: homepage
 
 此前，我在[东南大学](https://www.seu.edu.cn/english/)获得道路与铁路工程硕士学位，并在[长安大学](https://en.chd.edu.cn/5753/list.htm)获得道路、桥梁与渡河工程学士学位。同时，我还曾在[德国亚琛工业大学（RWTH Aachen University）](https://www.rwth-aachen.de/cms/~a/root/?lidx=1)进行学术交流。
 
-{% include_relative _includes/news.md %}
+{% include_relative _includes/news-cn.md %}
 
-{% include_relative _includes/contact.md %}
+{% include_relative _includes/contact-cn.md %}
