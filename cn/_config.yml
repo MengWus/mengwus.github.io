@@ -1,0 +1,37 @@
+title: Meng Wu
+position: Graduate Research Assistant
+affiliation: Michigan Technological University
+email: "mewu@mtu.edu"
+
+# Search Engine Optimization (SEO)
+description: Meng Wu is a Graduate Research Assistant at Michigan Technological University (MTU), specializing in sustainable asphalt, rubberized pavement, and advanced transportation materials research.
+url: "https://mengwus.github.io"   # root domain
+baseurl: ""                     # repo name, no trailing slash
+
+enable_hopkins_logo: true
+enable_last_update: false
+markdown: kramdown
+theme: jekyll-theme-primer
+
+# Links
+link_type: icon
+google_scholar: https://scholar.google.com/citations?user=67O3Z3YAAAAJ
+ORCID: "https://orcid.org/0000-0003-2182-5856"
+linkedin: https://www.linkedin.com/in/meng-wu-a0658a26b/
+email_link: "mailto:mewu@mtu.edu"
+
+# Images
+avatar: profile.jpg
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+
+# Excluded files
+exclude:
+  - build.sh
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - CNAME

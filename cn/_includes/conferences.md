@@ -1,0 +1,130 @@
+<h1 id="conference-posters"></h1>
+
+<h2 style="margin: 60px 0px 10px;">会议海报</h2>
+
+<h4 style="margin:0 10px 0;">高含量橡胶改性沥青的热养护效应：结合料性能评估与现场混合料表现</h4>
+<p style="margin:0 10px 10px; font-size:14px; font-style:italic; color:#555;">
+  <strong>吴孟</strong>、尹磊、刘钟达、尤占平
+</p>
+
+<ul style="margin:0 0 40px;">
+  <li>
+    <a href="https://trb-annual-meeting.nationalacademies.org/" target="_blank">
+      2026 年 TRB 年会，美国华盛顿特区，2026 年 1 月
+    </a>
+  </li>
+</ul>
+
+<h4 style="margin:0 10px 0;">基于大豆油的非铺装道路抑尘剂的实验室与现场性能及耐久性研究</h4>
+<p style="margin:0 10px 10px; font-size:14px; font-style:italic; color:#555;">
+  刘钟达、靳东兆、尹磊、<strong>吴孟</strong>、范钟亓、尤占平
+</p>
+
+<ul style="margin:0 0 40px;">
+  <li>
+    <a href="https://trb-annual-meeting.nationalacademies.org/" target="_blank">
+      2026 年 TRB 年会，美国华盛顿特区，2026 年 1 月
+    </a>
+  </li>
+</ul>
+
+<h4 style="margin:0 10px 0;">大豆油再生的 100% 再生沥青冷再生混合料：实验室与现场评价</h4>
+<p style="margin:0 10px 10px; font-size:14px; font-style:italic; color:#555;">
+  靳东兆、Sepehr Mohammad、尹磊、刘钟达、<strong>吴孟</strong>、Stephen Techtmann、尤占平
+</p>
+
+<ul style="margin:0 0 40px;">
+  <li>
+    <a href="https://trb-annual-meeting.nationalacademies.org/" target="_blank">
+      2026 年 TRB 年会，美国华盛顿特区，2026 年 1 月
+    </a>
+  </li>
+</ul>
+
+<h4 style="margin:0 10px 0;">湿冷气候下桥面沥青罩面层性能研究：密歇根州麦基诺大桥案例</h4>
+<p style="margin:0 10px 10px; font-size:14px; font-style:italic; color:#555;">
+  靳东兆、刘钟达、Kwadwo Ampadu Boateng、<strong>吴孟</strong>、尤占平
+</p>
+
+<ul style="margin:0 0 40px;">
+  <li>
+    <a href="https://trb-annual-meeting.nationalacademies.org/" target="_blank">
+      2026 年 TRB 年会，美国华盛顿特区，2026 年 1 月
+    </a>
+  </li>
+</ul>
+
+<h4 style="margin:0 10px 0;">湿法高含量橡胶沥青混合料性能的实验室评估</h4>
+<p style="margin:0 10px 5px; font-size:13px;">
+  <a href="https://doi.org/10.1016/j.conbuildmat.2025.143438" target="_blank" style="color:#0066cc; text-decoration:none;">
+    📄 相关出版物
+  </a>
+</p>
+
+<p style="margin:0 10px 10px; font-size:14px; font-style:italic; color:#555;">
+  <strong>吴孟</strong>、Kwadwo Ampadu Boateng、尹磊、靳东兆、辛凯、尤占平
+</p>
+
+<ul style="margin:0 0 40px;">
+  <li>
+    <a href="https://www.nationalacademies.org/event/885_01-2025_2025-trb-annual-meeting" target="_blank">
+      2025 年 TRB 年会，美国华盛顿特区，2025 年 1 月
+    </a>
+  </li>
+</ul>
+
+<h4 style="margin:0 10px 0;">润滑油处理橡胶（LOCR）对沥青罩面层性能的影响</h4>
+<p style="margin:0 10px 10px; font-size:14px; font-style:italic; color:#555;">
+  尹磊、靳东兆、任琦、<strong>吴孟</strong>、尤占平
+</p>
+
+<ul style="margin:0 0 40px;">
+  <li>
+    <a href="https://www.nationalacademies.org/event/885_01-2025_2025-trb-annual-meeting" target="_blank">
+      2025 年 TRB 年会，美国华盛顿特区，2025 年 1 月
+    </a>
+  </li>
+</ul>
+
+<h4 style="margin:0 10px 0;">橡胶颗粒增强沥青路面耐久性：密歇根案例研究</h4>
+<p style="margin:0 10px 10px; font-size:14px; font-style:italic; color:#555;">
+  靳东兆、Sepehr Mohammadi、辛凯、尹磊、<strong>吴孟</strong>、任奇、尤占平
+</p>
+
+<ul style="margin:0 0 40px;">
+  <li>
+    <a href="https://www.nationalacademies.org/event/885_01-2025_2025-trb-annual-meeting" target="_blank">
+      2025 年 TRB 年会，美国华盛顿特区，2025 年 1 月
+    </a>
+  </li>
+</ul>
+
+<h4 style="margin:0 10px 0;">通过高通量分子动力学模拟预测沥青性能</h4>
+<p style="margin:0 10px 5px; font-size:13px;">
+  <a href="https://doi.org/10.1111/mice.13325" target="_blank" style="color:#0066cc; text-decoration:none;">
+    📄 相关出版物
+  </a> 
+</p>
+<p style="margin:0 10px 10px; font-size:14px; font-style:italic; color:#555;">
+  <strong>吴孟</strong>、李苗苗、尤占平
+</p>
+<ul style="margin:0 0 40px;">
+  <li>
+    <a href="https://www.asphalttechnology.org/site_event_detail.cfm?pk_association_event=28018" target="_blank">
+      AAPT 2024 年年会与技术会议，美国伊利诺伊州芝加哥，2024 年 9 月
+    </a>
+  </li>
+</ul>
+
+<h4 style="margin:0 10px 0;">环氧结合料与再生玻璃的黏附特性</h4>
+<p style="margin:0 10px 10px; font-size:14px; font-style:italic; color:#555;">
+  辛凯、尹磊、<strong>吴孟</strong>、尤占平
+</p>
+
+<ul style="margin:0 0 40px;">
+  <li>
+    <a href="https://www.nationalacademies.org/event/806_01-2024_trb-annual-meeting" target="_blank">
+      2024 年 TRB 年会，美国华盛顿特区，2024 年 1 月
+    </a>
+  </li>
+</ul>
