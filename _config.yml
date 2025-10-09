@@ -41,6 +41,13 @@ defaults:
     values:
       layout: "default"
 
+permalink: pretty
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
 # The following files will be removed from the generated website.
 exclude:
   - build.sh
