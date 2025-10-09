@@ -1,6 +1,6 @@
 main:
   - title: "中文"
-    url: /cn
+    url: /cn.html
   - title: "Services"
     url: /services
   - title: "Projects"
