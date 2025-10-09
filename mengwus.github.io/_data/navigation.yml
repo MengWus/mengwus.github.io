@@ -1,0 +1,13 @@
+main:
+  - title: "中文"
+    url: /cn.html
+  - title: "Services"
+    url: /services
+  - title: "Projects"
+    url: /projects
+  - title: "Conferences"
+    url: /conferences
+  - title: "Publications"
+    url: /publications
+  - title: "Home"
+    url: /
