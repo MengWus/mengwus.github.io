@@ -1,8 +1,10 @@
 ---
 layout: homepage
+permalink: /index-cn/
 ---
 
 <h1 id="about-me-cn"></h1>
+...
 
 <h2 style="margin: 80px 0px 10px;"></h2>
 
