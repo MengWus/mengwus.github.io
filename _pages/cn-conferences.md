@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 会议
-permalink: /cn/conferences/
+permalink: /cn/conferences
 ---
 
 # 会议
