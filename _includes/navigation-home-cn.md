@@ -1,4 +1,4 @@
-{% for link in site.data.navigation.main %}
+{% for link in site.data.navigation-cn.main %}
   {% if link.right %}
     <a class="normal right" href="./{{ link.url }}">{{ link.title }}</a>
     {% else %}
