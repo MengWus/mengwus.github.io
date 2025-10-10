@@ -1,31 +1,49 @@
 ---
 layout: chinese
 title: 出版物
-permalink: /cn/publications/
 ---
 
 <h1>出版物</h1>
 
 <div class="publications">
-  {% for paper in site.data['publications-cn'].main %}
-  <div class="pub-item" style="margin-bottom: 40px;">
-
-    <!-- Image -->
-    {% if paper.image %}
-      <img src="{{ paper.image }}" alt="Publication image" style="width:100%; max-width:400px; border-radius:10px;">
+  {% assign pubs = site.data.publications-cn.main %}
+  
+  {% for pub in pubs %}
+  <div class="publication-item" style="margin-bottom: 30px; padding-bottom: 20px; border-bottom: 1px solid #eee;">
+    
+    {% if pub.image %}
+    <div class="pub-image" style="float: left; margin-right: 20px; max-width: 200px;">
+      <img src="{{ pub.image }}" alt="{{ pub.title }}" style="width: 100%; border-radius: 5px;">
+    </div>
     {% endif %}
-
-    <!-- Title -->
-    <h3 style="margin-top:10px;">
-      <a href="{{ paper.pdf }}" target="_blank">{{ paper.title }}</a>
-    </h3>
-
-    <!-- Authors and Journal -->
-    <p style="font-size:14px; color:#444;">
-      {{ paper.authors }} <br>
-      <em>{{ paper.conference }}</em>
-    </p>
-
+    
+    <div class="pub-content">
+      <h3 style="margin-top: 0;">
+        {% if pub.pdf %}
+          <a href="{{ pub.pdf }}" target="_blank">{{ pub.title }}</a>
+        {% else %}
+          {{ pub.title }}
+        {% endif %}
+      </h3>
+      
+      <p style="color: #666; margin: 10px 0;">
+        {{ pub.authors }}
+      </p>
+      
+      <p style="font-style: italic; color: #888;">
+        <strong>{{ pub.conference_short }}</strong> - {{ pub.conference }}
+      </p>
+      
+      {% if pub.pdf %}
+      <p>
+        <a href="{{ pub.pdf }}" target="_blank" style="color: #0066cc;">
+          <i class="fas fa-file-pdf"></i> PDF
+        </a>
+      </p>
+      {% endif %}
+    </div>
+    
+    <div style="clear: both;"></div>
   </div>
   {% endfor %}
 </div>
