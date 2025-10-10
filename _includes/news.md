@@ -1,7 +1,7 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-<li><strong>[Sep. 2025]</strong> I started to act as a reviewer for <a href="https://www.sciencedirect.com/journal/ksce-journal-of-civil-engineering">ksce journal of civil engineering</a>.</li>
+<li><strong>[Sep. 2025]</strong> I started to act as a reviewer for <a href="https://www.sciencedirect.com/journal/ksce-journal-of-civil-engineering">KSCE journal of civil engineering</a>.</li>
 <li><strong>[Sep. 2025]</strong> I started to act as a reviewer for <a href="https://www.sciencedirect.com/journal/applied-surface-science">Applied Surface Science</a>.</li>
 <li><strong>[Sep. 2025]</strong> I started to act as a reviewer for <a href="https://jtte.chd.edu.cn/">
 Journal of Traffic and Transportation Engineering (English Edition)</a>.</li>
