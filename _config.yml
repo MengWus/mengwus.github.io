@@ -31,17 +31,6 @@ avatar: profile.jpg
 plugins:
   - jekyll-sitemap   # generates sitemap.xml automatically for Google
 
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "default"
-  - scope:
-      path: "cn*.html"           # Any file starting with "cn"
-    values:
-      layout: "default"
-      navigation: navigation-cn   # Automatically use Chinese nav
 
 # The following files will be removed from the generated website.
 exclude:
