@@ -1,118 +1,118 @@
 main:
 
-  - title: "湿法高含量橡胶改性沥青混合料：实验室评估与现场应用"
+  - title: "High-content crumb rubber modified asphalt mixture via wet process: Laboratory evaluation and field application"
     authors: <strong>Meng Wu</strong>, Kwadwo Ampadu Boateng, Lei Yin, Zhongda Liu, Zhanping You*, Dongzhao Jin
     conference_short: CBM
     conference: Construction and Building Materials, 2025
     pdf: https://doi.org/10.1016/j.conbuildmat.2025.143438
     image: https://ars.els-cdn.com/content/image/1-s2.0-S0950061825035895-gr1.jpg
 
-  - title: "沥青老化行为的宏观—微观—分子尺度前沿综述"
+  - title: "A state-of-the-art review of asphalt aging behavior at macro, micro, and molecular scales"
     authors: <strong>Meng Wu</strong>, Lei Yin, Miaomiao Li, Zhanping You*, Dongzhao Jin, Kai Xin
     conference_short: CBM
     conference: Construction and Building Materials, 2025
     pdf: https://doi.org/10.1016/j.conbuildmat.2024.139738
     image: https://ars.els-cdn.com/content/image/1-s2.0-S0950061824048803-ga1_lrg.jpg
 
-  - title: "基于高通量分子动力学模拟的沥青性能预测"
+  - title: "Asphalt property prediction through high-throughput molecular dynamics simulation"
     authors: <strong>Meng Wu</strong>, Miaomiao Li, Zhanping You*
     conference_short: CACAIE
     conference: Computer‐Aided Civil and Infrastructure Engineering, 2025
     pdf: https://onlinelibrary.wiley.com/doi/full/10.1111/mice.13325?casa_token=xlus01DfMeEAAAAA%3A_6CnsRel2O8nXfyGi113--BY-eNvbmpws-jfr61yXgj1ddz5IlpAclzbfnh4MvaYpSWFjNa-DAN0UC2m
     image: https://onlinelibrary.wiley.com/cms/asset/a89c3cf5-37bb-4bfc-a477-35564af716fc/mice13325-fig-0009-m.jpg
 
-  - title: "老化对沥青黏附性能的影响：化学组成与结构变化的分子动力学模拟"
+  - title: "Aging effects on asphalt adhesive properties: molecular dynamics simulation of chemical composition and structural changes"
     authors: <strong>Meng Wu</strong>, Zhanping You*, Dongzhao Jin, Lei Yin, Kai Xin
     conference_short: Molecular Simulation
     conference: Molecular Simulation, 2024
     pdf: https://www.tandfonline.com/doi/abs/10.1080/08927022.2024.2359568
     image: https://mengwus.github.io/publications/ms2.png
 
-  - title: "乳化沥青扩散行为的分子动力学模型研究"
+  - title: "Molecular dynamics models to investigate the diffusion behavior of emulsified asphalt"
     authors: <strong>Meng Wu</strong>, Zhanping You*
     conference_short: CBM
     conference: Construction and Building Materials, 2023
     pdf: https://doi.org/10.1016/j.conbuildmat.2023.134061
     image: https://ars.els-cdn.com/content/image/1-s2.0-S0950061823037790-gr18.jpg
 
-  - title: "碎石封层中橡胶改性沥青的黏附性能：分子动力学研究"
+  - title: "Adhesion Performance of Rubber Modified Asphalt in Chip Seal: A Molecular Dynamic Study"
     authors: <strong>Meng Wu</strong>, Zhanping You*, Dongzhao Jin
     conference_short: Materials
     conference: Materials, 2023
     pdf: https://doi.org/10.3390/ma16186324
     image: https://www.mdpi.com/materials/materials-16-06324/article_deploy/html/images/materials-16-06324-g005-550.jpg
 
-  - title: "乳化冷再生混合料内聚与黏附性能的分子动力学模拟"
+  - title: "Molecular dynamics simulation on cohesion and adhesion properties of the emulsified cold recycled mixtures"
     authors: <strong>Meng Wu</strong>, Guangji Xu*, Yingcheng Luan, Yajing Zhu, Tao Ma, Weiguang Zhang
     conference_short: CBM
     conference: Construction and Building Materials, 2022
     pdf: https://www.sciencedirect.com/science/article/pii/S0950061822010807?casa_token=i-q7pIR4Mi8AAAAA:Td-K_zWyqH-bhI3Ef_voUrJHwc4-FXj3X_7YX6oJaYQ7g22f0sczpEc33QAltzD-JooH8B1wGrQ
     image: https://ars.els-cdn.com/content/image/1-s2.0-S0950061822010807-gr9.jpg
 
-  - title: "SBS改性沥青中SBS与沥青的协同老化行为：分子模拟与实验分析"
+  - title: "Molecular simulation and experimental analysis on co-aging behaviors of SBS modifier and asphalt in SBS-modified asphalt"
     authors: Guangji Xu, Yushi Yao, <strong>Meng Wu</strong>*, Yongli Zhao
     conference_short: Molecular Simulation
     conference: Molecular Simulation, 2023
     pdf: https://www.tandfonline.com/doi/abs/10.1080/08927022.2023.2182134
     image: https://mengwus.github.io/publications/ms.png
 
-  - title: "基于智能压实技术的就地铺筑沥青层实时密度监测"
+  - title: "In-Time Density Monitoring of In-Place Asphalt Layer Construction via Intelligent Compaction Technology"
     authors: Weiguang Zhang, Kamal Nasir Ahmad, Zheng Tong, Zhaoguang Hu, Haoyang Wang, <strong>Meng Wu</strong>*, Kai Zhao, Shunxin Yang, Hassan Farooq, Louay N Mohammad
     conference_short: JMCE
     conference: Journal of Materials in Civil Engineering, 2023
     pdf: https://doi.org/10.1061/(ASCE)MT.1943-5533.0004558
     image: https://ascelibrary.org/cms/10.1061/(ASCE)MT.1943-5533.0004558/asset/d44d53cf-0242-4d6f-931e-ab9b48e63820/assets/images/large/figure1.jpg
 
-  - title: "湿冻环境下高橡胶含量改性沥青碎石封层的性能"
+  - title: "Performance of high-rubber-content modified asphalt chip seal in wet-freezing environments"
     authors: Lei Yin, Dongzhao Jinn, <strong>Meng Wu</strong>, Zhongda Liu, Zhanping You*
     conference_short: JCP
     conference: Journal of Cleaner Production, 2025
     pdf: https://doi.org/10.1016/j.jclepro.2025.145993
     image: https://ars.els-cdn.com/content/image/1-s2.0-S0959652625013435-gr5.jpg
 
-  - title: "湿冻地区路用材料案例研究：废玻璃集料与高含量橡胶改性沥青的应用"
+  - title: "A Case Study of Pavement Construction Materials for Wet-Freeze Regions: The Application of Waste Glass Aggregate and High-Content Rubber Modified Asphalt"
     authors: Kai Xin, <strong>Meng Wu</strong>, Dongzhao Jin, Zhanping You*
     conference_short: Buildings
     conference: Buildings, 2025
     pdf: https://doi.org/10.3390/buildings15101637
     image: https://www.mdpi.com/buildings/buildings-15-01637/article_deploy/html/images/buildings-15-01637-g002-550.jpg
 
-  - title: "水泥及其水化产物对乳化冷再生混合料强度与界面黏附的影响：分子动力学与实验研究"
+  - title: "Exploring the influence of cement and cement hydration products on strength and interfacial adhesion in emulsified cold recycled mixture: A molecular dynamics and experimental investigation"
     authors: Yushi Yao, Guangji Xu*, <strong>Meng Wu</strong>, Min Zhao
     conference_short: CBM
     conference: Construction and Building Materials, 2023
     pdf: https://doi.org/10.1016/j.conbuildmat.2023.134050
     image: https://ars.els-cdn.com/content/image/1-s2.0-S0950061823037686-gr8.jpg
 
-  - title: "就地热再生层中沥青与再生剂混合行为研究"
+  - title: "Study of the Mixing between Asphalt and Rejuvenator in Hot In-Place Recycled Layer"
     authors: Yajing Zhu, Tao Ma, Guangji Xu*, Jianwei Fan, Yiming Zhang, <strong>Meng Wu</strong>
     conference_short: "J. Transp. Eng., Part B: Pavements"
     conference: "Journal of Transportation Engineering, Part B: Pavements, 2023"
     pdf: https://doi.org/10.1061/JPEODX.PVENG-1033
     image: https://mengwus.github.io/publications/ms3.jpg
 
-  - title: "冷再生混合料的力学性能与界面特性研究：促进再生沥青路面可持续利用"
+  - title: "Investigating mechanical performance and interface characteristics of cold recycled mixture: Promoting sustainable utilization of reclaimed asphalt pavement"
     authors: Yingcheng Luan, Tao Ma*, Siqi Wang, Yuan Ma, Guangji Xu, <strong>Meng Wu</strong>
     conference_short: JCP
     conference: Journal of Cleaner Production, 2022
     pdf: https://doi.org/10.1016/j.jclepro.2022.133366
     image: https://ars.els-cdn.com/content/image/1-s2.0-S0959652622029511-gr9.jpg
 
-  - title: "基于分子模拟的生物沥青黏附与自愈性能研究"
+  - title: "Research on the Adhesion and Self-healing Properties of Bio-asphalt Based on Molecular Simulation"
     authors: Yuan Fu, <strong>Meng Wu</strong>, Tianqing Hei, Zezhen Dong, Jianying Hu, Weiguang Zhang*
     conference_short: ARCE
     conference: Advance Researches in Civil Engineering, 2022
     pdf: https://doi.org/10.30469/arce.2022.157270
     image: https://mengwus.github.io/publications/pub1.png
 
-  - title: "橡胶改性沥青老化机理与性能演化的多层次分析"
+  - title: "Multilevel Analysis of the Aging Mechanisms and Performance Evolution of Rubber-Modified Asphalt"
     authors: Weiguang Zhang, Yingcheng Luan, Tao Ma*, Shuangjie Wang, Jianbing Chen, Jinping Li, <strong>Meng Wu</strong>
     conference_short: JMCE
     conference: Journal of Materials in Civil Engineering, 2021
     pdf: https://doi.org/10.1061/(ASCE)MT.1943-5533.0004000
     image: https://ascelibrary.org/cms/10.1061/(ASCE)MT.1943-5533.0004000/asset/382900e6-e548-4770-b044-ea4bab1e8a21/assets/images/large/figure6.jpg
 
-  - title: "全深式沥青路面中“泥球”病害的现场调查"
+  - title: "Field Investigation of Clay Balls in Full-Depth Asphalt Pavement"
     authors: Weiguang Zhang*, Jusang Lee, Hyung Jun Ahn, Qiqi Le, <strong>Meng Wu</strong>, Haoran Zhu, Jing Zhang
     conference_short: Materials
     conference: Materials, 2019
