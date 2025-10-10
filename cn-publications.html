@@ -1,7 +1,31 @@
 ---
 layout: chinese
 title: 出版物
+permalink: /cn/publications/
 ---
 
 <h1>出版物</h1>
-<p>出版物页面内容</p>
+
+<div class="publications">
+  {% for paper in site.data['publications-cn'].main %}
+  <div class="pub-item" style="margin-bottom: 40px;">
+
+    <!-- Image -->
+    {% if paper.image %}
+      <img src="{{ paper.image }}" alt="Publication image" style="width:100%; max-width:400px; border-radius:10px;">
+    {% endif %}
+
+    <!-- Title -->
+    <h3 style="margin-top:10px;">
+      <a href="{{ paper.pdf }}" target="_blank">{{ paper.title }}</a>
+    </h3>
+
+    <!-- Authors and Journal -->
+    <p style="font-size:14px; color:#444;">
+      {{ paper.authors }} <br>
+      <em>{{ paper.conference }}</em>
+    </p>
+
+  </div>
+  {% endfor %}
+</div>
