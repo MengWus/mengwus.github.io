@@ -18,7 +18,7 @@ main:
     conference_short: CACAIE
     conference: Computer‐Aided Civil and Infrastructure Engineering, 2025
     pdf: https://onlinelibrary.wiley.com/doi/full/10.1111/mice.13325
-    image: https://onlinelibrary.wiley.com/cms/asset/a89c3cf5-37bb-4bfc-a477-35564af716fc/mice13325-fig-0009-m.jpg
+    image: https://mengwus.github.io/publications/mice13325-fig-0009-m.jpg
 
   - title: "老化对沥青黏附性能的影响：化学组成与结构变化的分子动力学模拟"
     authors: <strong>Meng Wu</strong>, Zhanping You*, Dongzhao Jin, Lei Yin, Kai Xin
@@ -39,7 +39,7 @@ main:
     conference_short: Materials
     conference: Materials, 2023
     pdf: https://doi.org/10.3390/ma16186324
-    image: https://www.mdpi.com/materials/materials-16-06324/article_deploy/html/images/materials-16-06324-g005-550.jpg
+    image: https://mengwus.github.io/publications/materials-16-06324-g005-550.jpg
 
   - title: "乳化冷再生混合料内聚与黏附性能的分子动力学模拟"
     authors: <strong>Meng Wu</strong>, Guangji Xu*, Yingcheng Luan, Yajing Zhu, Tao Ma, Weiguang Zhang
@@ -67,7 +67,7 @@ main:
     conference_short: JCP
     conference: Journal of Cleaner Production, 2025
     pdf: https://doi.org/10.1016/j.jclepro.2025.145993
-    image: https://ars.els-cdn.com/content/image/1-s2.0-S0959652625013435-gr5.jpg
+    image: https://mengwus.github.io/publications/1-s2.0-S0959652625013435-gr5.jpg
 
   - title: "湿冻地区路用材料案例研究：废玻璃集料与高含量橡胶改性沥青的应用"
     authors: Kai Xin, <strong>Meng Wu</strong>, Dongzhao Jin, Zhanping You*
