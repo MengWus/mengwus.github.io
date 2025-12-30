@@ -19,7 +19,7 @@ main:
     conference_short: CACAIE
     conference: Computer‐Aided Civil and Infrastructure Engineering, 2025
     pdf: https://onlinelibrary.wiley.com/doi/full/10.1111/mice.13325?casa_token=xlus01DfMeEAAAAA%3A_6CnsRel2O8nXfyGi113--BY-eNvbmpws-jfr61yXgj1ddz5IlpAclzbfnh4MvaYpSWFjNa-DAN0UC2m
-    image: https://onlinelibrary.wiley.com/cms/asset/a89c3cf5-37bb-4bfc-a477-35564af716fc/mice13325-fig-0009-m.jpg
+    image: https://mengwus.github.io/publications/mice13325-fig-0009-m.jpg
 
   - title: "Aging effects on asphalt adhesive properties: molecular dynamics simulation of chemical composition and structural changes"
     authors: <strong>Meng Wu</strong>, Zhanping You*, Dongzhao Jin, Lei Yin, Kai Xin
@@ -40,7 +40,7 @@ main:
     conference_short: Materials
     conference: Materials, 2023
     pdf: https://doi.org/10.3390/ma16186324
-    image: https://www.mdpi.com/materials/materials-16-06324/article_deploy/html/images/materials-16-06324-g005-550.jpg
+    image: https://mengwus.github.io/publications/materials-16-06324-g005-550.jpg
 
   - title: "Molecular dynamics simulation on cohesion and adhesion properties of the emulsified cold recycled mixtures"
     authors: <strong>Meng Wu</strong>, Guangji Xu*, Yingcheng Luan, Yajing Zhu, Tao Ma, Weiguang Zhang
@@ -75,7 +75,7 @@ main:
     conference_short: Buildings
     conference: Buildings, 2025
     pdf: https://doi.org/10.3390/buildings15101637
-    image: https://www.mdpi.com/buildings/buildings-15-01637/article_deploy/html/images/buildings-15-01637-g002-550.jpg
+    image: https://mengwus.github.io/publications/buildings-15-01637-g002-550.jpg
 
   - title: "Exploring the influence of cement and cement hydration products on strength and interfacial adhesion in emulsified cold recycled mixture: A molecular dynamics and experimental investigation"
     authors: Yushi Yao, Guangji Xu*, <strong>Meng Wu</strong>, Min Zhao
