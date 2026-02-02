@@ -19,6 +19,7 @@
   <li><a href="https://www.sciencedirect.com/journal/applied-surface-science"><autocolor>Applied Surface Science</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/ksce-journal-of-civil-engineering"><autocolor>KSCE Journal of Civil Engineering</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/international-journal-of-adhesion-and-adhesives"><autocolor>International Journal of Adhesion and Adhesives</autocolor></a></li>
+    <li><a href="https://www.sciencedirect.com/journal/polymer-degradation-and-stability"><autocolor>Polymer Degradation and Stability</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">ASCE Society Student Membership</h4>
