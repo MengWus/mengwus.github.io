@@ -1,7 +1,7 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-<li><strong>[Dec. 2025]</strong> I started to act as a reviewer for <a href="[https://www.sciencedirect.com/journal/international-journal-of-adhesion-and-adhesives](https://www.sciencedirect.com/journal/polymer-degradation-and-stability)">Polymer Degradation and Stability</a>.</li>
+<li><strong>[Dec. 2025]</strong> I started to act as a reviewer for <a href="https://www.sciencedirect.com/journal/polymer-degradation-and-stability">Polymer Degradation and Stability</a>.</li>
 <li><strong>[Dec. 2025]</strong> I started to act as a reviewer for <a href="https://www.sciencedirect.com/journal/international-journal-of-adhesion-and-adhesives">International Journal of Adhesion and Adhesives</a>.</li>
 <li><strong>[Sep. 2025]</strong> I started to act as a reviewer for <a href="https://www.sciencedirect.com/journal/ksce-journal-of-civil-engineering">KSCE journal of civil engineering</a>.</li>
 <li><strong>[Sep. 2025]</strong> I started to act as a reviewer for <a href="https://www.sciencedirect.com/journal/applied-surface-science">Applied Surface Science</a>.</li>
