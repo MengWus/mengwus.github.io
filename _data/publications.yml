@@ -1,5 +1,12 @@
 main:
+  - title: "Asphalt-rubber interaction in crumb rubber modified asphalt: a review"
+    authors: <strong>Meng Wu</strong>, Miaomiao Li, Lei Yin, Zhanping You*
+    conference_short: JCP
+    conference: Journal of Cleaner Production, 2026
+    pdf: https://doi.org/10.1016/j.jclepro.2026.147766
+    image: https://ars.els-cdn.com/content/image/1-s2.0-S0959652626003057-ga1.jpg
 
+    
   - title: "High-content crumb rubber modified asphalt mixture via wet process: Laboratory evaluation and field application"
     authors: <strong>Meng Wu</strong>, Kwadwo Ampadu Boateng, Lei Yin, Zhongda Liu, Zhanping You*, Dongzhao Jin
     conference_short: CBM
