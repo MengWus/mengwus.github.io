@@ -1,4 +1,11 @@
 main:
+  - title: "橡胶-沥青相互作用在废轮胎橡胶改性沥青中的研究进展"
+    authors: <strong>Meng Wu</strong>, Miaomiao Li, Lei Yin, Zhanping You*
+    conference_short: JCP
+    conference: Journal of Cleaner Production, 2026
+    pdf: https://doi.org/10.1016/j.jclepro.2026.147766
+    image: https://ars.els-cdn.com/content/image/1-s2.0-S0959652626003057-ga1.jpg
+    
   - title: "湿法高含量橡胶改性沥青混合料：实验室评估与现场应用"
     authors: <strong>Meng Wu</strong>, Kwadwo Ampadu Boateng, Lei Yin, Zhongda Liu, Zhanping You*, Dongzhao Jin
     conference_short: CBM
