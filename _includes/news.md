@@ -1,4 +1,4 @@
-$<h2 style="margin: 60px 0px 10px;">News</h2>
+<h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
 <li><strong>[Feb. 2026]</strong> I was honored to receive the Dean’s Award for Outstanding Scholarship from the Graduate School at Michigan Technological University in recognition of academic excellence.</li>
