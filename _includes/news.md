@@ -1,6 +1,7 @@
-<h2 style="margin: 60px 0px 10px;">News</h2>
+$<h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[Feb. 2026]</strong> I was honored to receive the Dean’s Award for Outstanding Scholarship from the Graduate School at Michigan Technological University in recognition of academic excellence.</li>
 <li><strong>[Feb. 2026]</strong> Our paper about <a href="https://doi.org/10.1016/j.jclepro.2026.147766">Asphalt-rubber interaction in crumb rubber modified asphalt: a review</a> is accepted to <a href="https://www.sciencedirect.com/journal/journal-of-cleaner-production">Journal of Cleaner Production 2026</a>.</li>
 <li><strong>[Jan. 2026]</strong> I started to act as a reviewer for <a href="https://www.sciencedirect.com/journal/polymer-degradation-and-stability">Polymer Degradation and Stability</a>.</li>
 <li><strong>[Dec. 2025]</strong> I started to act as a reviewer for <a href="https://www.sciencedirect.com/journal/international-journal-of-adhesion-and-adhesives">International Journal of Adhesion and Adhesives</a>.</li>
