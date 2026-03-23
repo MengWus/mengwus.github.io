@@ -3,7 +3,9 @@
 <div style="max-height: 320px; overflow-y: auto; padding-right: 12px; border: 1px solid #e0e0e0; border-radius: 6px; padding: 12px; background-color: #fafafa;">
 
 <ul style="margin: 0; padding-left: 20px;">
-
+  
+<li><strong>[Mar. 2026]</strong> I was honored to receive the Finishing Fellowship from the Graduate School at Michigan Technological University in support of my dissertation research and timely degree completion.</li>
+  
 <li><strong>[Feb. 2026]</strong> I was honored to receive the Dean’s Award for Outstanding Scholarship from the Graduate School at Michigan Technological University in recognition of academic excellence.</li>
 
 <li><strong>[Feb. 2026]</strong> Our paper about <a href="https://doi.org/10.1016/j.jclepro.2026.147766">Asphalt-rubber interaction in crumb rubber modified asphalt: a review</a> is accepted to <a href="https://www.sciencedirect.com/journal/journal-of-cleaner-production">Journal of Cleaner Production 2026</a>.</li>
