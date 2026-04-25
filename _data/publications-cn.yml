@@ -69,6 +69,13 @@ main:
     pdf: https://doi.org/10.1061/(ASCE)MT.1943-5533.0004558
     image: https://ascelibrary.org/cms/10.1061/(ASCE)MT.1943-5533.0004558/asset/d44d53cf-0242-4d6f-931e-ab9b48e63820/assets/images/large/figure1.jpg
 
+  - title: "老化橡胶沥青路面再生利用研究综述"
+    authors: Kwadwo Ampadu Boateng, <strong>Meng Wu</strong>, Dongzhao Jin, Zhanping You*
+    conference_short: JRE
+    conference: Journal of Road Engineering, 2026
+    pdf: https://doi.org/10.1016/j.jreng.2026.02.001
+    image: https://mengwus.github.io/publications/13.jpg
+
   - title: "长时间储存​​和运输对高含量橡胶改性沥青性能和施工性能的影响"
     authors: Lei Yin, <strong>Meng Wu</strong>, Zhongda Liu, Kai Xin, Dongzhao Jin, Zhanping You*
     conference_short: IJPE
