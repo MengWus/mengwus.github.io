@@ -2,12 +2,6 @@
 
 <h2 style="margin: 60px 0px 10px;">Conference posters</h2>
 
-<h4 style="margin:0 10px 0;">Effects of Thermal Curing on High‑Content Crumb Rubber Modified Asphalt: Binder Evaluation and Field Mixture Performance</h4>
-<p style="margin:0 10px 10px; font-size:14px; font-style:italic; color:#555;">
-  <strong>Meng Wu</strong>, Lei Yin, Zhongda Liu, Zhanping You
-</p>
-
-
 <ul style="margin:0 0 40px;">
   <li>
     <a href="https://www.asce.org/" target="_blank">
@@ -19,6 +13,12 @@
 <h4 style="margin:0 10px 0;">Performance Evaluation of High-Content Crumb Rubber–Modified Asphalt for Sustainable Pavement Construction</h4>
 <p style="margin:0 10px 10px; font-size:14px; font-style:italic; color:#555;">
   <strong>Meng Wu</strong>, Lei Yin, Dongzhao Jin, Sepehr Mohammadi, Zhanping You*
+</p>
+
+
+<h4 style="margin:0 10px 0;">Effects of Thermal Curing on High‑Content Crumb Rubber Modified Asphalt: Binder Evaluation and Field Mixture Performance</h4>
+<p style="margin:0 10px 10px; font-size:14px; font-style:italic; color:#555;">
+  <strong>Meng Wu</strong>, Lei Yin, Zhongda Liu, Zhanping You
 </p>
 
 
