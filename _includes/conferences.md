@@ -7,6 +7,21 @@
   <strong>Meng Wu</strong>, Lei Yin, Zhongda Liu, Zhanping You
 </p>
 
+
+<ul style="margin:0 0 40px;">
+  <li>
+    <a href="https://www.asce.org/" target="_blank">
+      2026 ASCE T&amp;DI Transportation Conference in Detroit, Michigan, June 28–July 1, 2026
+    </a>
+  </li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Performance Evaluation of High-Content Crumb Rubber–Modified Asphalt for Sustainable Pavement Construction</h4>
+<p style="margin:0 10px 10px; font-size:14px; font-style:italic; color:#555;">
+  <strong>Meng Wu</strong>, Lei Yin, Dongzhao Jin, Sepehr Mohammadi, Zhanping You*
+</p>
+
+
 <ul style="margin:0 0 40px;">
   <li>
     <a href="https://trb-annual-meeting.nationalacademies.org/" target="_blank">
