@@ -42,7 +42,7 @@
 
   <li><a href="https://www.techscience.com/jpm"><autocolor>Journal of Polymer Materials</autocolor></a></li>
 
-  <li><a href="https://www.sciencedirect.com/journal/journal-of-building-engineering"><autocolor>Journal of Road Engineering</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/journal-of-road-engineering"><autocolor>Journal of Road Engineering</autocolor></a></li>
 
   <li><a href="https://link.springer.com/journal/10973"><autocolor>Journal of Thermal Analysis and Calorimetry</autocolor></a></li>
 
