@@ -16,6 +16,22 @@
   </li>
 </ul>
 
+<h4 style="margin:0 10px 0;">
+  Benefit/Cost of Applying a Higher Asphalt Film Thickness vs. Doing a Chip Seal at 1 Year
+</h4>
+
+<p style="margin:0 10px 10px; font-size:14px; font-style:italic; color:#555;">
+  <strong>Meng Wu</strong>, Kai Xin, Zhongda Liu, Zhanping You*
+</p>
+
+<ul style="margin:0 0 40px;">
+  <li>
+    <a href="https://www.dot.state.mn.us/mnroad/nrra/pavement-workshop/index.html" target="_blank">
+      2026 NRRA Pavement Conference in Shoreview, Minnesota, April 29–30, 2026
+    </a>
+  </li>
+</ul>
+
 
 <h4 style="margin:0 10px 0;">Effects of Thermal Curing on High‑Content Crumb Rubber Modified Asphalt: Binder Evaluation and Field Mixture Performance</h4>
 <p style="margin:0 10px 10px; font-size:14px; font-style:italic; color:#555;">
