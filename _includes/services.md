@@ -72,7 +72,7 @@
 
 </ul>
 
-<h4 style="margin:0 10px 0;">American Society of Civil Engineers (ASCE), Society Student Membership</h4>
+<h4 style="margin:0 10px 0;">Member, American Society of Civil Engineers (ASCE), M.ASCE</h4>
 <h4 style="margin:0 10px 0;">Institute of Transportation Engineers, Student Membership</h4>
 <h4 style="margin:0 10px 0;">International Association of Chinese Infrastructure Professionals, Student Membership</h4>
 
