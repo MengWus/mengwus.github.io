@@ -51,6 +51,8 @@
   <li><a href="https://www.sciencedirect.com/journal/ksce-journal-of-civil-engineering"><autocolor>KSCE Journal of Civil Engineering</autocolor></a></li>
 
   <li><a href="https://revmaterialeplastice.ro/"><autocolor>Materiale Plastice</autocolor></a></li>
+  
+  <li><a href="https://www.sciencedirect.com/journal/materials-today-communications"><autocolor>Materials Today Communications</autocolor></a></li>
 
   <li><a href="https://www.mdpi.com/journal/materials"><autocolor>Materials</autocolor></a></li>
 
