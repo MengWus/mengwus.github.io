@@ -49,6 +49,8 @@
   <li><a href="https://jtte.chd.edu.cn/"><autocolor>Journal of Traffic and Transportation Engineering (English Edition)</autocolor></a></li>
 
   <li><a href="https://www.sciencedirect.com/journal/ksce-journal-of-civil-engineering"><autocolor>KSCE Journal of Civil Engineering</autocolor></a></li>
+  
+  <li><a href="https://link.springer.com/journal/11043"><autocolor>Mechanics of Time-Dependent Materials</autocolor></a></li>
 
   <li><a href="https://revmaterialeplastice.ro/"><autocolor>Materiale Plastice</autocolor></a></li>
   
@@ -65,6 +67,8 @@
   <li><a href="https://www.mdpi.com/journal/recycling"><autocolor>Recycling</autocolor></a></li>
 
   <li><a href="https://www.sciencedirect.com/journal/results-in-engineering"><autocolor>Results in Engineering</autocolor></a></li>
+
+  <li><a href="https://www.sciencedirect.com/journal/soil-dynamics-and-earthquake-engineering"><autocolor>Soil Dynamics and Earthquake Engineering</autocolor></a></li>
 
   <li><a href="https://www.techscience.com/sdhm"><autocolor>Structural Durability &amp; Health Monitoring</autocolor></a></li>
 
