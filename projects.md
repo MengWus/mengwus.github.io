@@ -13,7 +13,7 @@ permalink: /projects/
 
 - Jan 2026: A preliminary investigation of rubberized asphalt performance under various dosages, Phase V: compare rubber source, content, particle size
 
-- Oct 2025: [Benefit/Cost of Applying a Higher Asphalt Film Thickness (AFT) vs. Doing a Chip Seal at 1 Year](https://rip.trb.org/View/2290368)
+- Oct 2025: [Benefit/Cost of Applying a Higher Asphalt Film Thickness (AFT) vs. Doing a Chip Seal at 1 Year](https://mdl.mndot.gov/index.php/_flysystem/fedora/2026-09/2027-01.pdf)
 
 - Aug 2025: [Ann Arbor 10% dry rubber asphalt mix](https://www.mlive.com/news/ann-arbor/2025/08/ann-arbor-road-project-contains-7000-scrap-tires-in-experimental-asphalt.html)
 
