@@ -1,15 +1,13 @@
 # Basic Information 
 title: Meng Wu
-position: Graduate Research Assistant
+position: Ph.D. Pavement Materials and Engineering
 affiliation: Michigan Technological University
-email: "mewu@mtu.edu"
+email: "mewu@mtu.edu/wumengfam@outlook.com"
 
 # Search Engine Optimization (SEO)
-# Search Engine Optimization (SEO)
-description: Meng Wu is a Graduate Research Assistant at Michigan Technological University (MTU), specializing in sustainable asphalt, rubberized pavement, and advanced transportation materials research.
-url: "https://mengwus.github.io/"   # important for SEO
-baseurl: ""                             # empty since this is a user/organization site
-
+description: "Meng Wu, Ph.D., is a civil engineering researcher focused on sustainable pavement materials, including rubber-modified asphalt, pavement recycling, and asphalt durability."
+url: "https://mengwus.github.io"
+baseurl: ""
 
 # The option is used to enable the Illinois template.
 enable_hopkins_logo: true
@@ -22,7 +20,7 @@ link_type: icon #text/icon
 google_scholar: https://scholar.google.com/citations?user=67O3Z3YAAAAJ
 ORCID: "https://orcid.org/0000-0003-2182-5856"
 linkedin: https://www.linkedin.com/in/meng-wu-a0658a26b/
-email_link: "mailto:mewu@mtu.edu"
+email_link: "mailto:wumengfam@outlook.com"
 
 # Images 
 avatar: profile.jpg
