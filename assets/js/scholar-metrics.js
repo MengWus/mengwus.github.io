@@ -8,7 +8,7 @@ async function refreshScholarMetrics() {
   const format = new Intl.NumberFormat(document.documentElement.lang);
 
   try {
-    const response = await fetch(panel.dataset.scholarFeed, { credentials: "omit" });
+    const response = await fetch(panel.dataset.scholarFeed, { credentials: "omit", cache: "no-cache" });
     if (!response.ok) return;
 
     const snapshot = await response.json();
