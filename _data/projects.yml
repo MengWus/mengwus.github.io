@@ -1,0 +1,39 @@
+- start_date: "2023-11"
+  start_date_en: "Nov 2023"
+  start_date_zh: "2023 年 11 月"
+  date: "2026-04"
+  date_en: "Apr 2026"
+  date_zh: "2026 年 4 月"
+  title: "A Preliminary Investigation of Rubberized Asphalt Performance Under Various Dosages (Phases I–VI)"
+  title_zh: "不同胶粉掺量下橡胶沥青性能的初步研究（第一至第六阶段）"
+  role: primary_lab
+  description: "The six phases evaluated binder and mixture performance and compared the effects of rubber source, dosage, particle size, and preparation intensity."
+  description_zh: "六个阶段涵盖结合料和混合料的性能评价，并比较了胶粉来源、掺量、粒径及制备强度的影响。"
+- date: "2025-10"
+  date_en: "Oct 2025"
+  date_zh: "2025 年 10 月"
+  title: "Benefit/Cost of Applying a Higher Asphalt Film Thickness (AFT) vs. Doing a Chip Seal at 1 Year"
+  title_zh: "采用更高沥青膜厚度（AFT）与一年后进行碎石封层处理的成本效益分析"
+  role: primary_lab
+  url: https://mdl.mndot.gov/index.php/_flysystem/fedora/2026-09/2027-01.pdf
+- date: "2025-08"
+  date_en: "Aug 2025"
+  date_zh: "2025 年 8 月"
+  title: "Ann Arbor 10% dry rubber asphalt mix"
+  title_zh: "安娜堡 10% 干法橡胶沥青混合料项目"
+  role: participant
+  url: https://www.mlive.com/news/ann-arbor/2025/08/ann-arbor-road-project-contains-7000-scrap-tires-in-experimental-asphalt.html
+- date: "2025-05"
+  date_en: "May 2025"
+  date_zh: "2025 年 5 月"
+  title: "Iron Mountain 20% dry rubber asphalt mix"
+  title_zh: "铁山 20% 干法橡胶沥青混合料项目"
+  role: participant
+  url: https://www.ironmountaindailynews.com/news/local-news/2025/05/cr-573-project-underway-today/
+- date: "2024-09"
+  date_en: "Sep 2024"
+  date_zh: "2024 年 9 月"
+  title: "Dixie Highway 22% wet rubber asphalt mix"
+  title_zh: "Dixie Highway 22% 湿法橡胶沥青混合料项目"
+  role: primary_lab
+  url: https://www.abc12.com/traffic/2-million-worth-of-grants-will-incorporate-tires-into-road-paving/article_a854c746-d477-11ed-add4-8bae0d2e3159.html

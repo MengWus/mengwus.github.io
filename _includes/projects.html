@@ -1,0 +1,45 @@
+{% assign is_zh = false %}
+{% assign primary_lab_role = 'Primary laboratory researcher under the PI’s supervision' %}
+{% assign participant_role = 'Project participant' %}
+{% if page.lang == 'zh-CN' %}
+  {% assign is_zh = true %}
+  {% assign primary_lab_role = '在项目负责人指导下承担主要实验工作' %}
+  {% assign participant_role = '项目参与' %}
+{% endif %}
+
+<div class="page-heading">
+  <h2 id="Projects">{% if is_zh %}科研与现场项目{% else %}Research &amp; Field Projects{% endif %}</h2>
+</div>
+
+<ul class="entry-grid" role="list">
+  {% for project in site.data.projects %}
+    {% assign title = project.title %}
+    {% assign date_label = project.date_en %}
+    {% assign start_label = project.start_date_en %}
+    {% assign description = project.description %}
+    {% if is_zh %}
+      {% assign title = project.title_zh %}
+      {% assign date_label = project.date_zh %}
+      {% assign start_label = project.start_date_zh %}
+      {% assign description = project.description_zh %}
+    {% endif %}
+    <li class="site-card entry-card">
+      <div class="entry-date">
+        {% if project.start_date %}<time datetime="{{ project.start_date }}">{{ start_label }}</time> – {% endif %}
+        <time datetime="{{ project.date }}">{{ date_label }}</time>
+      </div>
+      <h3>
+        {% if project.url %}
+          <a href="{{ project.url }}"{% if is_zh %} target="_blank" rel="noopener"{% endif %}>{{ title | escape }}</a>
+        {% else %}
+          {{ title | escape }}
+        {% endif %}
+      </h3>
+      {% case project.role %}
+        {% when 'primary_lab' %}<p class="entry-role">{{ primary_lab_role }}</p>
+        {% when 'participant' %}<p class="entry-role">{{ participant_role }}</p>
+      {% endcase %}
+      {% if description %}<p class="entry-description">{{ description | escape }}</p>{% endif %}
+    </li>
+  {% endfor %}
+</ul>

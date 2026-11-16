@@ -1,0 +1,106 @@
+journals:
+  - title: "Applied Sciences"
+    title_zh: "应用科学"
+    url: https://www.mdpi.com/journal/applsci
+  - title: "Applied Surface Science"
+    title_zh: "应用表面科学"
+    url: https://www.sciencedirect.com/journal/applied-surface-science
+  - title: "Buildings"
+    title_zh: "建筑"
+    url: https://www.mdpi.com/journal/buildings
+  - title: "Case Studies in Construction Materials"
+    title_zh: "建筑材料案例研究"
+    url: https://www.sciencedirect.com/journal/case-studies-in-construction-materials
+  - title: "Chemical Engineering Journal"
+    title_zh: "化学工程学报"
+    url: https://www.sciencedirect.com/journal/chemical-engineering-journal
+  - title: "CivilEng"
+    title_zh: "土木工程"
+    url: https://www.mdpi.com/journal/civileng
+  - title: "Cleaner Materials"
+    title_zh: "清洁材料"
+    url: https://www.sciencedirect.com/journal/cleaner-materials
+  - title: "Coatings"
+    title_zh: "涂层"
+    url: https://www.mdpi.com/journal/coatings
+  - title: "Colloids and Surfaces A: Physicochemical and Engineering Aspects"
+    title_zh: "胶体与表面A：物理化学与工程"
+    url: https://www.sciencedirect.com/journal/colloids-and-surfaces-a-physicochemical-and-engineering-aspects
+  - title: "Construction & Building Materials"
+    title_zh: "建筑与建材"
+    url: https://www.sciencedirect.com/journal/construction-and-building-materials
+  - title: "Construction Materials"
+    title_zh: "建筑材料"
+    url: https://www.mdpi.com/journal/constrmater
+  - title: "International Journal of Adhesion and Adhesives"
+    title_zh: "国际黏附与胶黏剂杂志"
+    url: https://www.sciencedirect.com/journal/international-journal-of-adhesion-and-adhesives
+  - title: "International Journal of Biological Macromolecules"
+    title_zh: "国际生物大分子杂志"
+    url: https://www.sciencedirect.com/journal/international-journal-of-biological-macromolecules
+  - title: "Journal of Building Engineering"
+    title_zh: "建筑工程学报"
+    url: https://www.sciencedirect.com/journal/journal-of-building-engineering
+  - title: "Journal of Cleaner Production"
+    title_zh: "清洁生产学报"
+    url: https://www.sciencedirect.com/journal/journal-of-cleaner-production
+  - title: "Journal of Materials in Civil Engineering"
+    title_zh: "土木工程材料学报"
+    url: https://ascelibrary.org/journal/jmcee7
+  - title: "Journal of Molecular Liquids"
+    title_zh: "分子液体学报"
+    url: https://www.sciencedirect.com/journal/journal-of-molecular-liquids
+  - title: "Journal of Polymer Materials"
+    title_zh: "聚合物材料学报"
+    url: https://www.techscience.com/jpm
+  - title: "Journal of Road Engineering"
+    title_zh: "道路工程学报"
+    url: https://www.sciencedirect.com/journal/journal-of-road-engineering
+  - title: "Journal of Thermal Analysis and Calorimetry"
+    title_zh: "热分析与量热学报"
+    url: https://link.springer.com/journal/10973
+  - title: "Journal of Traffic and Transportation Engineering (English Edition)"
+    title_zh: "交通运输工程学报·英文版"
+    url: https://jtte.chd.edu.cn/
+  - title: "KSCE Journal of Civil Engineering"
+    title_zh: "韩国土木工程学会学报"
+    url: https://www.sciencedirect.com/journal/ksce-journal-of-civil-engineering
+  - title: "Materiale Plastice"
+    title_zh: "塑料材料"
+    url: https://revmaterialeplastice.ro/
+  - title: "Materials"
+    title_zh: "材料"
+    url: https://www.mdpi.com/journal/materials
+  - title: "Materials Today Communications"
+    title_zh: "今日材料通讯"
+    url: https://www.sciencedirect.com/journal/materials-today-communications
+  - title: "Mechanics of Time-Dependent Materials"
+    title_zh: "时变材料力学"
+    url: https://link.springer.com/journal/11043
+  - title: "Molecules"
+    title_zh: "分子"
+    url: https://www.mdpi.com/journal/molecules
+  - title: "Polymer Degradation and Stability"
+    title_zh: "聚合物降解与稳定性"
+    url: https://www.sciencedirect.com/journal/polymer-degradation-and-stability
+  - title: "Polymers"
+    title_zh: "聚合物"
+    url: https://www.mdpi.com/journal/polymers
+  - title: "Recycling"
+    title_zh: "资源回收"
+    url: https://www.mdpi.com/journal/recycling
+  - title: "Results in Engineering"
+    title_zh: "工程研究成果"
+    url: https://www.sciencedirect.com/journal/results-in-engineering
+  - title: "Soil Dynamics and Earthquake Engineering"
+    title_zh: "土动力学与地震工程"
+    url: https://www.sciencedirect.com/journal/soil-dynamics-and-earthquake-engineering
+  - title: "Structural Durability & Health Monitoring"
+    title_zh: "结构耐久性与健康监测"
+    url: https://www.techscience.com/sdhm
+  - title: "Sustainability"
+    title_zh: "可持续发展"
+    url: https://www.mdpi.com/journal/sustainability
+  - title: "Waste"
+    title_zh: "废弃物"
+    url: https://www.mdpi.com/journal/waste

@@ -1,27 +1,32 @@
-<h1 id="publications"></h1>
+<div class="page-heading">
+  <h2 id="publications">Publications</h2>
+  <div class="page-heading-links">
+    <a href="https://scholar.google.com/citations?user=67O3Z3YAAAAJ&amp;hl" target="_blank" rel="noopener">Google Scholar</a>
+    <a href="{{ site.ORCID }}" target="_blank" rel="noopener">ORCID</a>
+  </div>
+</div>
 
-<h2 style="margin: 60px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=67O3Z3YAAAAJ&hl" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://orcid.org/0000-0003-2182-5856" target="_blank" style="font-size:15px;">ORCID</a><temp style="font-size:15px;">]</temp></h2>
-
+{% include scholar-metrics.html %}
 
 <div class="publications">
 <ol class="bibliography">
 
 {% for link in site.data.publications.main %}
 
-<li>
+<li class="publication-card">
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
+  <div class="col-sm-3 abbr">
+    <img src="{{ link.image | relative_url }}" class="teaser img-fluid z-depth-1" alt="" loading="lazy" decoding="async">
             <abbr class="badge">{{ link.conference_short }}</abbr>
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
     <div class="links">
       {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">View article</a>
       {% endif %}
       {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -46,11 +51,7 @@
 </div>
 </li>
 
-<br>
-
 {% endfor %}
 
 </ol>
 </div>
-
-

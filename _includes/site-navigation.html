@@ -1,0 +1,28 @@
+{% assign links = site.data.navigation.main %}
+{% assign menu_label = "Menu" %}
+{% assign navigation_label = "Main navigation" %}
+{% assign home_url = "/" %}
+{% assign switch_label = "中文" %}
+{% assign switch_lang = "zh-CN" %}
+{% if is_chinese %}
+  {% assign links = site.data.navigation-cn.main %}
+  {% assign menu_label = "菜单" %}
+  {% assign navigation_label = "主导航" %}
+  {% assign home_url = "/cn.html" %}
+  {% assign switch_label = "English" %}
+  {% assign switch_lang = "en-US" %}
+{% endif %}
+<nav class="site-nav" aria-label="{{ navigation_label }}">
+  <div class="site-nav-inner">
+    <a class="site-nav-name" href="{{ home_url | relative_url }}">{{ profile_name }}</a>
+    <button class="site-nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav-links">{{ menu_label }}</button>
+    <div class="site-nav-links" id="site-nav-links">
+      {% for link in links %}
+        <a href="{{ link.url | relative_url }}"{% if page.url == link.url %} aria-current="page"{% endif %}>{{ link.title }}</a>
+      {% endfor %}
+      {% if page.alternate_url %}
+        <a class="site-nav-language" href="{{ page.alternate_url | relative_url }}" lang="{{ switch_lang }}" hreflang="{{ switch_lang }}">{{ switch_label }}</a>
+      {% endif %}
+    </div>
+  </div>
+</nav>

@@ -1,0 +1,31 @@
+{% assign description = page.description | default: site.description %}
+{% assign locale = "en_US" %}
+{% assign alternate_lang = "zh-CN" %}
+{% if is_chinese %}
+  {% assign description = page.description | default: site.description_zh %}
+  {% assign locale = "zh_CN" %}
+  {% assign alternate_lang = "en-US" %}
+{% endif %}
+{% capture page_title %}{% if page.title %}{{ page.title }} | {% endif %}{{ profile_name }} | {{ profile_affiliation }}{% endcapture %}
+{% assign canonical_url = page.url | absolute_url %}
+{% assign social_image_url = site.avatar | absolute_url %}
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page_title | escape }}</title>
+<meta name="description" content="{{ description | escape }}">
+<link rel="canonical" href="{{ canonical_url }}">
+{% if page.alternate_url %}
+<link rel="alternate" hreflang="{{ lang }}" href="{{ canonical_url }}">
+<link rel="alternate" hreflang="{{ alternate_lang }}" href="{{ page.alternate_url | absolute_url }}">
+{% endif %}
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{ page_title | escape }}">
+<meta property="og:description" content="{{ description | escape }}">
+<meta property="og:url" content="{{ canonical_url }}">
+<meta property="og:locale" content="{{ locale }}">
+<meta property="og:image" content="{{ social_image_url }}">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="{{ page_title | escape }}">
+<meta name="twitter:description" content="{{ description | escape }}">
+<meta name="twitter:image" content="{{ social_image_url }}">

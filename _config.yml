@@ -1,11 +1,16 @@
 # Basic Information 
 title: Meng Wu
-position: Ph.D. Pavement Materials and Engineering
+title_zh: 吴孟
+degree: Ph.D. in Civil Engineering
+degree_zh: 土木工程博士
 affiliation: Michigan Technological University
-email: "mewu@mtu.edu/wumengfam@outlook.com"
+affiliation_zh: 密歇根理工大学
+affiliation_link: https://www.mtu.edu/
+email: wumengfam@outlook.com
 
 # Search Engine Optimization (SEO)
 description: "Meng Wu, Ph.D., is a civil engineering researcher focused on sustainable pavement materials, including rubber-modified asphalt, pavement recycling, and asphalt durability."
+description_zh: "吴孟，土木工程博士，研究可持续路面材料、沥青体系老化与黏附、橡胶改性沥青与路面再生。"
 url: "https://mengwus.github.io"
 baseurl: ""
 
@@ -18,12 +23,13 @@ enable_last_update: false
 # Links
 link_type: icon #text/icon
 google_scholar: https://scholar.google.com/citations?user=67O3Z3YAAAAJ
+scholar_metrics_feed: https://raw.githubusercontent.com/mengwus/mengwus.github.io/scholar-metrics/scholar-metrics.json
 ORCID: "https://orcid.org/0000-0003-2182-5856"
 linkedin: https://www.linkedin.com/in/meng-wu-a0658a26b/
 email_link: "mailto:wumengfam@outlook.com"
 
 # Images 
-avatar: profile.jpg
+avatar: /assets/profile-web.jpg
 
 # Jekyll plugins
 plugins:
@@ -38,3 +44,5 @@ exclude:
   - README.md
   - LICENSE
   - CNAME
+  - "吴孟_密歇根理工大学_个人简历.docx"
+  - "吴孟_密歇根理工大学_个人简历.pdf"

@@ -1,0 +1,65 @@
+{% assign locale = 'en' %}
+{% assign publications_title = 'Selected Publications' %}
+{% assign publications_label = 'All publications' %}
+{% assign publications_url = '/publications/' %}
+{% assign projects_label = 'All projects' %}
+{% assign projects_url = '/projects/' %}
+{% assign paper_label = 'Read paper' %}
+{% assign education_title = 'Education' %}
+{% assign highlights_title = 'Recent highlights' %}
+{% if page.lang == 'zh-CN' %}
+  {% assign locale = 'zh' %}
+  {% assign publications_title = '代表论文' %}
+  {% assign publications_label = '全部论文' %}
+  {% assign publications_url = '/cn-publications.html' %}
+  {% assign projects_label = '全部项目' %}
+  {% assign projects_url = '/cn-projects.html' %}
+  {% assign paper_label = '查看论文' %}
+  {% assign education_title = '教育经历' %}
+  {% assign highlights_title = '近期动态' %}
+{% endif %}
+
+<div class="home-publications">
+  <h2 class="section-heading" id="selected-publications">{{ publications_title }}</h2>
+  <ul class="home-paper-grid">
+    {% for paper in site.data.home.publications %}
+      {% assign item = paper[locale] %}
+      <li class="site-card home-paper">
+        <h3>{{ item.title | escape }}</h3>
+        <p class="home-paper-journal"><cite>{{ paper.journal | escape }}</cite> · {{ paper.year }}</p>
+        <p>{{ item.contribution | escape }}</p>
+        <a href="{{ paper.url }}" aria-label="{{ paper_label }}: {{ item.title | escape }}">{{ paper_label }} <span aria-hidden="true">↗</span></a>
+      </li>
+    {% endfor %}
+  </ul>
+  <p class="home-more"><a href="{{ publications_url | relative_url }}">{{ publications_label }}</a> · <a href="{{ projects_url | relative_url }}">{{ projects_label }}</a></p>
+</div>
+
+<div class="home-background">
+  <div>
+    <h2 class="section-heading" id="education">{{ education_title }}</h2>
+    <ol class="education-timeline">
+      {% for school in site.data.home.education %}
+        {% assign item = school[locale] %}
+        <li class="site-card">
+          <span class="home-date">{{ school.years }}</span>
+          <h3>{{ item.institution | escape }}</h3>
+          <p>{{ item.program | escape }}</p>
+        </li>
+      {% endfor %}
+    </ol>
+  </div>
+
+  <div>
+    <h2 class="section-heading" id="recent-highlights">{{ highlights_title }}</h2>
+    <ul class="site-card home-highlights">
+      {% for highlight in site.data.home.highlights %}
+        {% assign item = highlight[locale] %}
+        <li>
+          <time class="home-date" datetime="{{ highlight.date }}">{{ item.month }}</time>
+          <p>{{ item.text | escape }}</p>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>

@@ -23,13 +23,11 @@ View the live page using `localhost`:
 
 The compiled HTML files are available in the [`html_source_file`](https://github.com/yaoyao-liu/homepage/tree/main/html_source_file) folder. If you don't like Jekyll, you may directly edit and use the HTML version.
 
-### Google Scholar Crawler
+### Google Scholar metrics
 
-The instructions for the Google Scholar crawler can be found in [this repository](https://github.com/RayeRen/acad-homepage.github.io).
-<br>
-Before using that, you need to change the Google Scholar ID in the following file:
-https://github.com/yaoyao-liu/homepage/blob/bf1cdb984e6189b855797a88d8a36d194c1e4901/google_scholar_crawler/main.py#L7
+The publications pages display the dated Google Scholar snapshot in `_data/scholar_metrics.json`. Edit that file to update the numbers manually.
 
+To enable scheduled updates on GitHub, add your [SerpApi key](https://serpapi.com/manage-api-key) as a repository Actions secret named `SERPAPI_API_KEY`. Once the workflow is on the default branch, run **Update Google Scholar metrics** from the Actions tab to initialize the feed. The workflow is scheduled every six hours and stores only the public metrics and their date on the `scholar-metrics` branch. The site reads that feed independently of GitHub Pages builds and keeps the embedded snapshot if the feed is missing or older.
 
 ### Acknowledgements
 

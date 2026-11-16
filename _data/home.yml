@@ -1,0 +1,81 @@
+publications:
+  - url: https://doi.org/10.1111/mice.13325
+    journal: Computer-Aided Civil and Infrastructure Engineering
+    year: 2025
+    en:
+      title: Asphalt property prediction
+      contribution: I used high-throughput molecular dynamics simulations to predict asphalt properties from molecular composition.
+    zh:
+      title: 基于高通量分子模拟的沥青性能预测
+      contribution: 我利用高通量分子动力学模拟，从分子组成出发预测沥青性能。
+  - url: https://doi.org/10.1016/j.jclepro.2026.147766
+    journal: Journal of Cleaner Production
+    year: 2026
+    en:
+      title: Asphalt–rubber interactions
+      contribution: I synthesized evidence on how scrap tire rubber interacts with asphalt and how those interactions affect binder performance.
+    zh:
+      title: 橡胶与沥青的相互作用
+      contribution: 我梳理了废胎胶粉与沥青的相互作用，以及这些作用对改性结合料性能的影响。
+  - url: https://doi.org/10.1016/j.conbuildmat.2025.143438
+    journal: Construction and Building Materials
+    year: 2025
+    en:
+      title: Dixie Highway field trial
+      contribution: I combined lab testing and field evaluation to assess a wet-process asphalt mixture with 22% crumb rubber.
+    zh:
+      title: Dixie Highway 现场试验
+      contribution: 我结合室内性能测试和现场施工验证，评估掺入 22% 胶粉的湿法橡胶沥青混合料。
+
+education:
+  - years: "2022–2026"
+    en:
+      institution: Michigan Technological University
+      program: Ph.D. and M.S. in Civil Engineering
+    zh:
+      institution: 密歇根理工大学
+      program: 土木工程博士、硕士
+  - years: "2019–2022"
+    en:
+      institution: Southeast University
+      program: M.S. in Road and Railway Engineering
+    zh:
+      institution: 东南大学
+      program: 道路与铁道工程硕士
+  - years: "2018–2019"
+    en:
+      institution: RWTH Aachen University
+      program: Visiting study funded by the China Scholarship Council
+    zh:
+      institution: 亚琛工业大学
+      program: 国家留学基金委公派学习
+  - years: "2015–2019"
+    en:
+      institution: Chang’an University
+      program: B.Eng. in Road, Bridge, and River-Crossing Engineering
+    zh:
+      institution: 长安大学
+      program: 道路桥梁与渡河工程工学学士
+
+highlights:
+  - date: "2026-04"
+    en:
+      month: April 2026
+      text: Presented a poster at the NRRA Pavement Conference on the costs and benefits of increasing asphalt film thickness or applying a chip seal after one year.
+    zh:
+      month: 2026 年 4 月
+      text: 在 NRRA 路面会议展示海报，比较提高沥青膜厚与一年后实施碎石封层的效益和成本。
+  - date: "2026-03"
+    en:
+      month: March 2026
+      text: Received Michigan Tech’s Graduate School Finishing Fellowship for dissertation research.
+    zh:
+      month: 2026 年 3 月
+      text: 获密歇根理工大学研究生院毕业论文完成奖学金。
+  - date: "2026-02"
+    en:
+      month: February 2026
+      text: Received Michigan Tech’s Dean’s Award for Outstanding Scholarship.
+    zh:
+      month: 2026 年 2 月
+      text: 获密歇根理工大学研究生院院长杰出学术奖。

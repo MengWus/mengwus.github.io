@@ -1,11 +1,5 @@
-<h2 style="margin: 60px 0px 10px;">Contact</h2>
-
-Civil, Environmental, and Geospatial Engineering
-<br />
-Michigan Technological University, 1400 Townsend Drive, Houghton, MI 49931, U.S.A.
-<br />
-Phone: <a href="tel:+19062814039">906-299-2905</a>
-<br />
-Office: <a href="https://maps.app.goo.gl/7KbwH4D3DG1qcnh66">Dow 825</a>
-<br /><br />   <!-- two empty lines -->
-📄 <a href="/CV_mengwu.pdf" target="_blank">Download CV (PDF)</a>
+<h2 class="section-heading">{% if page.lang == "zh-CN" %}联系方式{% else %}Contact{% endif %}</h2>
+<p>
+  <a href="{{ site.email_link }}">{{ site.email }}</a> ·
+  <a href="tel:+19062992905">+1 906-299-2905</a>
+</p>

@@ -1,0 +1,121 @@
+.home-intro {
+  max-width: 79ch;
+  margin-bottom: 28px;
+}
+
+.home-intro p {
+  margin-bottom: 12px;
+}
+
+.home-publications,
+.home-background {
+  margin-bottom: 28px;
+}
+
+.home-paper-grid,
+.education-timeline,
+.home-highlights {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.home-paper-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.home-paper {
+  display: flex;
+  flex-direction: column;
+  padding: 16px;
+}
+
+.home-paper h3,
+.education-timeline h3 {
+  margin: 0 0 6px;
+  font-size: 1.15rem;
+  line-height: 1.24;
+}
+
+.home-paper p {
+  margin-bottom: 12px;
+}
+
+.home-paper .home-paper-journal,
+.home-date {
+  color: #4c6279;
+  font-size: 0.94rem;
+}
+
+.home-paper > a {
+  align-self: flex-start;
+  margin-top: auto;
+}
+
+.home-more {
+  margin: 12px 0 0;
+}
+
+.home-background {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 24px;
+}
+
+.education-timeline {
+  display: grid;
+  gap: 10px;
+  position: relative;
+  padding-left: 20px;
+}
+
+.education-timeline::before {
+  content: "";
+  position: absolute;
+  inset: 14px auto 14px 4px;
+  width: 1px;
+  background: var(--panel-border);
+}
+
+.education-timeline li {
+  position: relative;
+  padding: 10px 14px;
+}
+
+.education-timeline li::before {
+  content: "";
+  position: absolute;
+  top: 15px;
+  left: -20px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #325578;
+}
+
+.education-timeline p,
+.home-highlights p {
+  margin: 0;
+}
+
+.home-date {
+  display: block;
+  margin-bottom: 3px;
+}
+
+.home-highlights li {
+  padding: 12px 15px;
+}
+
+.home-highlights li + li {
+  padding-top: 4px;
+}
+
+@media screen and (max-width: 650px) {
+  .home-paper-grid,
+  .home-background {
+    grid-template-columns: 1fr;
+  }
+}

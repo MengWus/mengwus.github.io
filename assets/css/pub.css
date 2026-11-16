@@ -72,4 +72,94 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li div.abstract.hidden.open { border-color: var(--global-text-color); }
 
-.publications ol.bibliography li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 123px; width: 270px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover; }
+.wide-page .publications {
+  margin-top: 0;
+}
+
+.publications .bibliography {
+  display: grid;
+  gap: 20px;
+}
+
+.publications ol.bibliography .publication-card {
+  min-height: 0;
+  margin: 0;
+  padding: 4px 0;
+}
+
+.publication-card .pub-row {
+  display: grid;
+  grid-template-columns: minmax(100px, 156px) minmax(0, 1fr);
+  gap: 14px;
+}
+
+.publications ol.bibliography .publication-card .abbr {
+  height: auto;
+  margin: 0;
+}
+
+.publications ol.bibliography .publication-card .teaser {
+  display: block;
+  width: 100%;
+  height: 108px;
+  object-fit: contain;
+  margin: 0;
+  border-radius: 4px;
+  box-shadow: none;
+}
+
+.publications ol.bibliography .publication-card .abbr abbr {
+  position: static;
+  margin-top: 5px;
+  padding-inline: 6px;
+  white-space: normal;
+  box-shadow: none;
+}
+
+.publication-card .links {
+  margin-top: 5px;
+}
+
+@media screen and (max-width: 520px) {
+  .publication-card .pub-row {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+
+  .publications ol.bibliography .publication-card .abbr {
+    width: min(156px, 100%);
+  }
+}
+
+.scholar-metrics {
+  max-width: 37rem;
+  padding: 12px 16px;
+  margin-bottom: 24px;
+  border-radius: var(--panel-radius);
+  background: var(--panel-background);
+}
+
+.scholar-totals {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 8px;
+  margin: 0;
+}
+
+.scholar-totals dt,
+.scholar-source {
+  color: var(--entry-muted);
+  font-size: 0.91rem;
+}
+
+.scholar-totals dd {
+  margin: 2px 0 0;
+  color: var(--global-theme-color);
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.15;
+}
+
+.scholar-source {
+  margin: 8px 0 0;
+}

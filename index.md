@@ -1,17 +1,20 @@
 ---
-layout: homepage
+layout: default
+home: true
+alternate_url: /cn.html
 ---
 
-<h1 id="about-me"></h1>
+<div class="home-intro" markdown="1">
 
-<h2 style="margin: 80px 0px 10px;"></h2>
+## About me
+{: #about-me .section-heading }
 
-I recently completed my PhD in the [Department of Civil, Environmental, and Geospatial Engineering](https://www.mtu.edu/cege/) at [Michigan Technological University](https://www.mtu.edu/), where I conducted research under the supervision of Dr. [Zhanping You](https://www.mtu.edu/cege/people/faculty-staff/faculty/you/).
+I earned my Ph.D. in Civil Engineering from [Michigan Technological University](https://www.mtu.edu/) in August 2026, advised by [Prof. Zhanping You](https://www.mtu.edu/cege/people/faculty-staff/faculty/you/).
 
-My research lies at the intersection of materials science and computational simulation — with a special focus on **multi-scale aging and adhesive behavior of asphalt systems**. My research interests include **molecular dynamics simulation**, **high-throughput property prediction**, **rubber-modified asphalt**, recycled pavement materials, pavement aging, and **sustainable asphalt technologies**.
+My research focuses on pavement durability, asphalt aging and adhesion, and the use of recycled materials such as scrap tire rubber. I use molecular simulation to study how materials behave, then use laboratory tests and field trials to evaluate their performance in pavements.
 
-I also received a Master's degree from [Michigan Technological University](https://www.mtu.edu/) in January 2026. Previously, I completed my Master's in Road and Railway Engineering at [Southeast University](https://www.seu.edu.cn/english/) and my BS in Road, Bridge, and River-Crossing Engineering at [Chang'an University](https://en.chd.edu.cn/5753/list.htm). I also spent time at [RWTH Aachen University](https://www.rwth-aachen.de/cms/~a/root/?lidx=1).
+</div>
 
-{% include_relative _includes/news.md %}
+{% include home-details.html %}
 
-{% include_relative _includes/contact.md %}
+{% include contact.md %}

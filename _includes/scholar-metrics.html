@@ -1,0 +1,27 @@
+{% assign metrics = site.data.scholar_metrics %}
+{% if metrics %}
+<div class="scholar-metrics"
+     data-scholar-author="{{ metrics.author_id | escape }}"
+     data-scholar-feed="{{ site.scholar_metrics_feed | escape }}"
+     data-scholar-origin="{{ site.url | escape }}"
+     data-scholar-checked-on="{{ metrics.checked_on | escape }}">
+  <dl class="scholar-totals">
+    <div>
+      <dt>{% if page.lang == 'zh-CN' %}总被引次数{% else %}Citations{% endif %}</dt>
+      <dd data-metric="citations">{{ metrics.citations }}</dd>
+    </div>
+    <div>
+      <dt>h-index</dt>
+      <dd data-metric="h_index">{{ metrics.h_index }}</dd>
+    </div>
+    <div>
+      <dt>i10-index</dt>
+      <dd data-metric="i10_index">{{ metrics.i10_index }}</dd>
+    </div>
+  </dl>
+  <p class="scholar-source">
+    <a href="{{ site.google_scholar | escape }}">Google Scholar</a>
+  </p>
+</div>
+<script src="{{ '/assets/js/scholar-metrics.js' | relative_url }}" defer></script>
+{% endif %}
