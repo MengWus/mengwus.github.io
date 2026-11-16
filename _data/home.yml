@@ -31,30 +31,38 @@ education:
   - years: "2022–2026"
     en:
       institution: Michigan Technological University
+      country: United States
       program: Ph.D. and M.S. in Civil Engineering
     zh:
       institution: 密歇根理工大学
+      country: 美国
       program: 土木工程博士、硕士
   - years: "2019–2022"
     en:
       institution: Southeast University
+      country: China
       program: M.S. in Road and Railway Engineering
     zh:
       institution: 东南大学
+      country: 中国
       program: 道路与铁道工程硕士
   - years: "2018–2019"
     en:
       institution: RWTH Aachen University
+      country: Germany
       program: Visiting study funded by the China Scholarship Council
     zh:
       institution: 亚琛工业大学
+      country: 德国
       program: 国家留学基金委公派学习
   - years: "2015–2019"
     en:
       institution: Chang’an University
+      country: China
       program: B.Eng. in Road, Bridge, and River-Crossing Engineering
     zh:
       institution: 长安大学
+      country: 中国
       program: 道路桥梁与渡河工程工学学士
 
 highlights:

@@ -43,7 +43,7 @@
         {% assign item = school[locale] %}
         <li class="site-card">
           <span class="home-date">{{ school.years }}</span>
-          <h3>{{ item.institution | escape }}</h3>
+          <h3>{{ item.institution | escape }}{% if item.country %}{% if locale == 'zh' %}（{{ item.country | escape }}）{% else %}, {{ item.country | escape }}{% endif %}{% endif %}</h3>
           <p>{{ item.program | escape }}</p>
         </li>
       {% endfor %}
